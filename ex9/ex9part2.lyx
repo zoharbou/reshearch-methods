@@ -212,17 +212,650 @@
 \uwave default
 \noun default
 \color inherit
-1
+2
 \numeric off
 :
 \end_layout
 
 \begin_layout Subsubsection*
-סעיף א'
+סעיף א'-ג'
 \end_layout
 
 \begin_layout Standard
+ניתן לראות בקובץ 
+\begin_inset Formula $R$
+\end_inset
 
+.
+ ניקינו את ה-
+\begin_inset Formula $data$
+\end_inset
+
+ כמו שנדרש.
+\end_layout
+
+\begin_layout Subsubsection*
+סעיף ד'
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename ../../pasted1.png
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+ 
+\begin_inset Newline newline
+\end_inset
+
+מה שלדעתנו עשוי להיות בעייתי בנתונים הגולמיים הוא שיש מדידות בודדות אשר
+ נמצאות במרחק גדול )של כמה סטיות תקן( מריכוז הדגימות שהתקבלו.
+ דגימות קיצוניות כאלה עלולות להביא למסקנות שונות מהמצב בעולם ולגרום לטעויות
+ מסוג ראשון או שני.
+\end_layout
+
+\begin_layout Subsubsection*
+סעיף ה'
+\end_layout
+
+\begin_layout Standard
+הוספנו את 
+\begin_inset Formula $RT\_clean$
+\end_inset
+
+ ל- 
+\begin_inset Formula $data$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Subsubsection*
+סעיף ו'
+\end_layout
+
+\begin_layout Standard
+קיבלנו כי- 
+\begin_inset Formula $9.63\%$
+\end_inset
+
+ מהשורות היו עם ערך קיצוני ולכן סוננו מהדאטא של זמני התגובה.
+\begin_inset Newline newline
+\end_inset
+
+לדעתנו חוקרים לעיתים מדווחים על האחוז שנתונים כאלו מהווים מכלל הדאטה כיוון
+ שזה מעיד על כמה דגימות נחשבו "קיצוניות" וסוננו החוצה מהדאטה.
+ 
+\begin_inset Newline newline
+\end_inset
+
+במידה ואחוז זה הינו גבוה, ייתכן ומדובר בנתח מהאוכלוסיה, שאחרת לא יבוא לידי
+ ביטוי.
+ כמו כן, זה יכול להעלות ספקות לגבי התוקף הפנימי והחיצוני של המבחן אשר בוצע
+ ועל אמיתות התוצאות.
+ 
+\end_layout
+
+\begin_layout Subsubsection*
+סעיפים ח'-י"ד:
+\end_layout
+
+\begin_layout Standard
+בקובץ 
+\begin_inset Formula $R$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection*
+שאלה
+\family roman
+\series bold
+\shape up
+\size large
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+3
+\numeric off
+:
+\end_layout
+
+\begin_layout Subsubsection*
+סעיפים א'-ג':
+\end_layout
+
+\begin_layout Standard
+בקובץ 
+\begin_inset Formula $R$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+סעיף ד':
+\end_layout
+
+\begin_layout Standard
+ביצענו מבחן קורולציה בין הציונים אשר קיבלו המשתתפים בשאלון ה-
+\begin_inset Formula $TPS$
+\end_inset
+
+ המייצג את המבחן האקספליציטי, לבין הציון אשר חושב בשאלה הקודמת - 
+\begin_inset Formula $qIAT$
+\end_inset
+
+, המייצג את המבחן האימפליציטי.
+\begin_inset Newline newline
+\end_inset
+
+התוצאות אשר קיבלנו: 
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Graphics
+	filename ../../pasted2.png
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+המסקנות:
+\begin_inset Newline newline
+\end_inset
+
+עפ"י הנחות המבחן - השערת האפס היא שלא קיימת קורולציה בין המבחנים.
+ היות וקיבלנו כי 
+\begin_inset Formula $p\_value=0.0075$
+\end_inset
+
+, ניתן לדחות את השערת האפס.
+\begin_inset Newline newline
+\end_inset
+
+כלומר, כן ק
+\series bold
+יימת התאמה בין תוצאות המבחנים
+\series default
+.
+ בהתאמה, קיבלנו כי הקורולציה בין המבחנים היא 
+\begin_inset Formula $0.3889$
+\end_inset
+
+.
+ 
+\begin_inset Newline newline
+\end_inset
+
+התוקף אשר התוצאות מעידות עליו הוא 
+\series bold
+תוקף הניבוי 
+\series default
+אשר נמדד ע"י המתאם בין המבחן האימפליציטי למבחן האקספליציטי.
+ 
+\end_layout
+
+\begin_layout Subsubsection*
+סעיף ה':
+\end_layout
+
+\begin_layout Standard
+סינון הנתונים אחרי קבלת התוצאות )
+\begin_inset Formula $\text{Post hoc}$
+\end_inset
+
+( יכול להביא ל"זריקה" של נתונים אשר נראים מסיחים )
+\begin_inset Formula $\text{outliers}$
+\end_inset
+
+( כי אולי לא תואמים את ההיפותזה שלנו, אך בעצם הם מייצגים את האוכלוסייה.
+ סינון זה יכול להביא לשינוי המידע כך שיעיד על קיום של אפקט למרות שאינו קיים
+ - כלומר לטעות מסוג ראשון.
+ ברגע שאנחנו רואים את הנתונים אנחנו כבר מוטים ולא אובייקטיבים לקבל החלטות
+ כאלה.
+\end_layout
+
+\begin_layout Subsubsection*
+סעיף ו':
+\end_layout
+
+\begin_layout Standard
+כפי שטענו בסעיף ו' בשאלה הקודמת, חשוב לבדוק מה אחוז הדגימות שסוננו החוצה
+ מתוך כלל הדגימות.
+ 
+\begin_inset Newline newline
+\end_inset
+
+באופן כללי, במצב בו אחוז זה גבוה, אז נכון יותר להשאיר את הדגימות שכן יש
+ חשד שהן מייצגות אוכלוסיה אשר לא תבוא לידי ביטוי אם נסנן את הדגימות.
+ על מנת לתת תוקף חיצוני למבחן כך שנוכל להכליל אותו על האוכלוסיה הכללית,
+ חשוב לתת ביטוי גם לאוכלסיה זו.
+ כמובן שכל זה תלוי במשתנה שממנו אנו מסננים תוצאות ובהפעלת הגיון סביר לתוצאות
+ אפשריות עבור המשתנה הזה לעומת תוצאות שהן לא תקינות ומהוות רעש שיכול להסיט
+ את המסקנות.
+ במצב בו מדובר בדגימות בודדות שאכן לא נראה סביר כי הן התקבלו מתוך האוכלוסייה
+ יהיה נכון לסנן אותן.
+ ניזכר כי ראינו בתרגול כי גם דגימה בודדת שהיא 
+\begin_inset Formula $\text{outliers}$
+\end_inset
+
+ יכולה לשנות את המסקנות.
+ 
+\begin_inset Newline newline
+\end_inset
+
+עבור התוצאות בניסוי הספציפי אשר ביצענו, נטען כי מרקוס טועה, וכי זאת הייתה
+ החלטה נכונה לסנן את הדגימות.
+ זמן תגובה של 
+\begin_inset Formula $300$
+\end_inset
+
+ מ"ש, הנתון לפיו סיננו, הוא זמן מהיר מידי מכדי לעבד את השאלה ולענות תשובה
+ כנה ונראה כי אותו נבדק לא באמת קרא את השאלה וענה ברצינות אלא לחץ בלי מחשבה.
+ לכן תשובות אלו לדעתנו הן כן 
+\begin_inset Formula $\text{outliers}$
+\end_inset
+
+, הן רעש שיכול להטות את המסקנות ונכון לסנן אותן החוצה.
+ 
+\end_layout
+
+\begin_layout Subsubsection*
+סעיף ז':
+\end_layout
+
+\begin_layout Standard
+הרצנו רגרסיה לינארית על המשתנה התלוי 
+\begin_inset Formula $diff\_time$
+\end_inset
+
+ עם המנבא 
+\begin_inset Formula $TPS\_score$
+\end_inset
+
+ .
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename ../../pasted3.png
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+ניתן לראות כי מבחן ה-
+\begin_inset Formula $F$
+\end_inset
+
+, אשר בודק האם הציונים המנובאים ע"י הרגרסיה הלינארית והציונים האמיתיים הם
+ מאותה ההתפלגות.
+ 
+\begin_inset Newline newline
+\end_inset
+
+השערת האפס במקרה זה הינה שאין קשר לינארי בין המנבא לבין המשתנה התלוי, ולכן
+ היות וקיבלנו 
+\begin_inset Formula $p\_value=0.166$
+\end_inset
+
+, לא ניתן לדחות את השערת האפס, ולכן לא נוכל לטעון שום דבר לגבי הקשר בין
+ המשתנים.
+ יתכן כי הוא לא לינארי אבל קיים, או שהוא לא קיים בכלל.
+\begin_inset Newline newline
+\end_inset
+
+בשונה מסעיף ד', תוקף הניבוי שקיבלנו הוא נמוך.
+ בפועל, התוצאות מעידות על כך שציון ה-
+\begin_inset Formula $TPS$
+\end_inset
+
+ לא חוזה את מדד ה-
+\begin_inset Formula $diff\_time$
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Subsubsection*
+סעיף ח':
+\end_layout
+
+\begin_layout Standard
+משתנה מתערב לדוגמה הינו סוגיית התעדוף בין הקורסים השונים.
+ 
+\begin_inset Newline newline
+\end_inset
+
+ייתכן כי בימים אשר בין פרסום השאלון לבין המענה עליו, היו תאריכי יעד של מטלות
+ הגשה נוספות אשר דרשו את השקעת הזמן.
+ במקרה זה, ה"דחיינות" אשר הוצעה כפירוש של ה-
+\begin_inset Formula $diff\_time$
+\end_inset
+
+ אינה נובעת מתכונת הדחיינות האישית של הסטודנטים, אלא מניהול הזמנים שלהם.
+ כלומר, יש לקחת בחשבון כמשתנה מתערב את העומס של הסטודנטים במהלך הזמן אשר
+ בין פרסום השאלון לבין זמן המענה עליו.
+ 
+\begin_inset Newline newline
+\end_inset
+
+הצעה נוספת, המערערת על תוקף המשתנה, היא כי יתכן שאנשים יעידו על עצמם באופן
+ טבעי כי הם פחות דחיינים ממה שהם בפועל, כמו באימרה ידועה- "אם היו שואלים
+ כל אחד כמה הוא ביחס לממוצע,
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+95
+\numeric off
+% היו אומרים שהם מעל לממוצע".
+\end_layout
+
+\begin_layout Subsection*
+שאלה
+\family roman
+\series bold
+\shape up
+\size large
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+4
+\numeric off
+:
+\end_layout
+
+\begin_layout Subsubsection*
+סעיף א':
+\end_layout
+
+\begin_layout Standard
+נעלה את השאלה - האם יש הבדל בין גברים לנשים בתכונה- נועם הליכות.
+\begin_inset Newline newline
+\end_inset
+
+על מנת לבדוק את השאלה נבצע מבחן 
+\begin_inset Formula $t$
+\end_inset
+
+ דו זנבי עם 
+\begin_inset Formula $\alpha=0.05$
+\end_inset
+
+.
+ 
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Graphics
+	filename ../../pasted6.png
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+לא ניתן היה לדחות את השערת האפס.
+ קיבלנו 
+\begin_inset Formula $p_{value}=0.05384$
+\end_inset
+
+ .
+ זהו ערך גדול מ-
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+
+\begin_inset Formula $0.05$
+\end_inset
+
+ ולכן לא דחינו את השערת האפס ולא ניתן להסיק כלום.
+ במבט על הממוצעים ניתן לראות הבדלים קטנים מאוד בין הקבוצות.
+ היו לנו 
+\begin_inset Formula $29$
+\end_inset
+
+ דגימות של נשים ו- 
+\begin_inset Formula $18$
+\end_inset
+
+ דגימות של גברים.
+ נראה כי גודל מדגם זה לא משקף את האוכלוסייה וכי לא ניתן להסיק ממנו אפקט
+ על המשתנים.
+\end_layout
+
+\begin_layout Subsubsection*
+סעיף ב':
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula $multiple\,comperations$
+\end_inset
+
+- הבעיה היא שאספנו מספר גדול של משתנים, וכאשר יש יותר מניתוח אחד על אותם
+ משתנים, הסיכוי למציאת אפקט מובהק מקרי כלשהו בין שני תנאים הוא גדול מאלפא
+ )הגדלת הטעות מסוג ראשון(.
+ זוהי השמטת תנאים בעייתית.
+ על מנת להיות חוקרים טובים אנו צריכים לדווח באופן כנה על כל המשתנים והתנאים
+ שנכללו בניסוי וגם על המבחנים בהם לא נמצא אפקט.
+ את מתוך ההנחה כי אם נעשה מספיק מבחנים על מספיק תנאים- משהו יצא מובהק.
+ בעיה נוספת היא שבמידה ואין אפקט ולא נפרסם זאת, אנו יכולים "לבזבז" זמן של
+ חוקר אחר שיחשוב על השאלה הזאת ויחקור אותה כאשר אין לו את הידע המוקדם שנוכל
+ לספק לו על התוצאות של המחקר שלנו.
+\end_layout
+
+\begin_layout Subsubsection*
+סעיף ג':
+\end_layout
+
+\begin_layout Standard
+לדעתנו ניתן להתגבר על בעיה כמו זו שעולה מסעיף ב' על ידי:
+\end_layout
+
+\begin_layout Enumerate
+מחשבה מראש- לחשוב מראש על המשתנים הבלתי תלוים שאנו רוצים לבדוק בניסוי.
+ לא לכלו תנאים ומשתנים שלא לצורך הממוקד של שאלת המחקר
+\end_layout
+
+\begin_layout Enumerate
+דיווח כנה- לדווח בכנות על המשתנים והתנאים שנכללו בניסוי.
+ 
+\end_layout
+
+\begin_layout Enumerate
+להגביל את עצמנו מראש ולהחליט איזה מבחנים סטטיסטיים אנו מעוניינים לבצע ועל
+ איזה נתונים ולהשתדל שתהיה כמה שפחות תלות בין המשתנים שנבחנים למבחנים השונים.
+ אם השתמשנו במשתנה תלוי כלשהו ואנו בודקים את השפעת משתנה בלתי תלוי עליו,
+ נבחר אותו בחכמה ולא ננסה את כל המשתנים הבלתי תלוים האפשריים על אותו משתנה
+ תלוי.
+ אולי אפשר לבדוק בנפרד עבור על משתנה בלתי תלוי נתונים חדשים של המשתנה התלוי
+ ולא להשתמש באותם נבדקים להכל.
+ 
+\end_layout
+
+\begin_layout Enumerate
+דיווח מלא של התוצאות- רווח בר סמך, ממוצעים, גודל האפקט, עוצמת המבחן וכן
+ הלאה..
+\end_layout
+
+\begin_layout Subsubsection*
+סעיף ד':
+\end_layout
+
+\begin_layout Standard
+על מנת ליצור התפלגות דגימה באמצעים לא פרמטריים בעזרת 
+\begin_inset Formula $\boldsymbol{bootstrap}$
+\end_inset
+
+ ננהג בשלבים הבאים:
+\end_layout
+
+\begin_layout Enumerate
+עבור 
+\begin_inset Formula $T$
+\end_inset
+
+ איטרציות נבצע:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+נדגום 
+\series bold
+עם
+\series default
+ החזרות, 
+\begin_inset Formula $m$
+\end_inset
+
+ דגימות מתוך כלל הדגימות.
+ זאת כאשר 
+\begin_inset Formula $m$
+\end_inset
+
+ קטן ממספר הדגימות ונבחר באופן אחיד מראש.
+\end_layout
+
+\begin_layout Itemize
+נבצע את המבחן הסטטיסטי על הדגימה שהגרלנו ונשמור את התוצאות
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+נספור כמה פעמים מתוך 
+\begin_inset Formula $T$
+\end_inset
+
+ האיטרציות התקבלה מובהקות סטטיסטית על הדגימה.
+ 
+\end_layout
+
+\begin_layout Enumerate
+נחליט לפי טרשהולד שנקבע אם היה אפקט או לא.
+ 
+\end_layout
+
+\begin_layout Standard
+במבחן 
+\series bold
+פרמוטציה
+\series default
+ ננהג באופן דומה רק שהפעם נדגום 
+\series bold
+בלי
+\series default
+ החזרות 
+\begin_inset Formula $m$
+\end_inset
+
+ דגימות מתוך כלל הדגימות שקיבלנו.
+\begin_inset Newline newline
+\end_inset
+
+היתרון של תהליך זה הוא שהוא מקטין את השונות ובכך "מחפה" על חלק מהבעייתיות
+ של הליך בדיקת ההשערות.
+ הוא יכול לגרום ליותר דיוק של רווח הבר סמך ובכך תורם להקטנה הטעות מסוג ראשון.
+ אינו דורש הנחת יסוד שהדאטא לקוח מהתפלגות פרמטרית כלשהי וזה טוב כי לעיתים
+ לא ניתן להסתמך על הנחות פרמטריות.
+ בבוטסטראפ- מניח שהדגימה בגודל 
+\begin_inset Formula $m$
+\end_inset
+
+ עם החזרות מדמה באופן טוב את תהליך הדגימה מתוך אוכלוסייה גדולה יותר ועל
+ כן מבצע את ההחזרות.
+ לדעתי לא בהכרח היינו מקבלים את אותה התוצאה כמו המבחן הפרמטרי.
+ יתכן כי המשתנה שבחרנו- נועם הליכות הוא לא פרמטרי ולכן לא מיוצג טוב במספרים
+ האלו.
 \end_layout
 
 \end_body
