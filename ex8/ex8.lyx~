@@ -1,0 +1,2260 @@
+#LyX 2.2 created this file. For more info see http://www.lyx.org/
+\lyxformat 508
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language hebrew
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 2cm
+\topmargin 2cm
+\rightmargin 2cm
+\bottommargin 3cm
+\headheight 2cm
+\headsep 2cm
+\footskip 2cm
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+שיטות מחקר- תרגיל
+\family roman
+\series medium
+\shape up
+\size largest
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+8
+\end_layout
+
+\begin_layout Author
+מגישות- אלה דובדבן
+\family roman
+\series medium
+\shape up
+\size large
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+305564866
+\family roman
+\series medium
+\shape up
+\size large
+\emph off
+\numeric off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+זוה רבוחניק
+\family roman
+\series medium
+\shape up
+\size large
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+311142293
+\end_layout
+
+\begin_layout Subsection*
+שאלה
+\family roman
+\series bold
+\shape up
+\size large
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+1
+\numeric off
+:
+\end_layout
+
+\begin_layout Subsubsection*
+סעיף א'
+\end_layout
+
+\begin_layout Standard
+עבור הקובץ- 
+\begin_inset Formula $proc1.xlsx$
+\end_inset
+
+, האומדן שקיבלנו לעקיבות הפנימית של שאלון ה
+\begin_inset Formula $TPS$
+\end_inset
+
+- באמצעות מדד 
+\begin_inset Formula $CronbachAlpha$
+\end_inset
+
+ הוא 
+\series bold
+
+\begin_inset Formula $\boldsymbol{0.86}$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+סעיף ב'
+\end_layout
+
+\begin_layout Standard
+עבור הקובץ- 
+\begin_inset Formula $proc2.xlsx$
+\end_inset
+
+, האומדן שקיבלנו ל- 
+\begin_inset Formula $test\,retest$
+\end_inset
+
+ של שאלון ה
+\begin_inset Formula $TPS$
+\end_inset
+
+ הוא 
+\begin_inset Formula $0.86$
+\end_inset
+
+.
+\begin_inset Newline newline
+\end_inset
+
+ניתן לראות בקובץ 
+\begin_inset Formula $R$
+\end_inset
+
+ שהגשנו.
+ השתמשנו בפונקציה 
+\begin_inset Formula $testRetest$
+\end_inset
+
+ על
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+10
+\numeric off
+ השאלות בשני הזמנים השונים וזה הפלט שהתקבל:
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Graphics
+	filename pasted2.png
+	lyxscale 60
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+סעיף ג'
+\end_layout
+
+\begin_layout Standard
+מהו המתאם בין ציוני שני השאלונים השונים )בהעברה השנייה(? מה אומדן זה משקף?
+ הסבירו בקצרה.
+\begin_inset Newline newline
+\end_inset
+
+המתאם בין ציוני שני השאלונים השונים- 
+\begin_inset Formula $0.8234704$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+אומדן זה משקף לנו את עוצמת הקשר הלינארי בין שני השאלונים, כלומר עד כמה הם
+ מתואמים במדידת דחיינות.
+ קיבלנו ערך גבוה של מתאם לכן נסיק כי הקשר בניהם חזק והם אומדים בצורה דומה
+ את מידת הדחיינות של הנבדק.
+\end_layout
+
+\begin_layout Subsubsection*
+סעיף ד'
+\end_layout
+
+\begin_layout Standard
+נראה כי החוקרת צדה.
+ כלומר כי מתקיים שהמתאם המקסימלי בין שני משתנים 
+\begin_inset Formula $x,y$
+\end_inset
+
+ מוגבל על-ידי שורש מכפלת המהימנויות של המשתנים:
+\begin_inset Newline newline
+\end_inset
+
+
+\bar under
+צ.ל
+\bar default
+- 
+\begin_inset Formula 
+\[
+r_{x,y}\leq\sqrt{\frac{\sigma_{x_{true}}^{2}}{\sigma_{x_{observed}}^{2}}\cdot\frac{\sigma_{y_{true}}^{2}}{\sigma_{y_{observed}}^{2}}}
+\]
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\bar under
+הוכחה
+\bar default
+- ראשית, מהגדרה 
+\begin_inset Formula 
+\[
+r_{x,y}=\frac{Cov\left(x_{observed},y_{observed}\right)}{\sigma_{x_{observed}}\cdot\sigma_{y_{observed}}}
+\]
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+על כן 
+\begin_inset Formula 
+\[
+r_{x,y}\leq\sqrt{\frac{\sigma_{x_{true}}^{2}}{\sigma_{x_{observed}}^{2}}\cdot\frac{\sigma_{y_{true}}^{2}}{\sigma_{y_{observed}}^{2}}}\Longleftrightarrow\frac{Cov\left(x_{observed},y_{observed}\right)}{\sigma_{x_{observed}}\cdot\sigma_{y_{observed}}}\leq\sqrt{\frac{\sigma_{x_{true}}^{2}}{\sigma_{x_{observed}}^{2}}\cdot\frac{\sigma_{y_{true}}^{2}}{\sigma_{y_{observed}}^{2}}}
+\]
+
+\end_inset
+
+
+\begin_inset Formula 
+\[
+\Longleftrightarrow\frac{Cov\left(x_{observed},y_{observed}\right)}{\sigma_{x_{observed}}\cdot\sigma_{y_{observed}}}\leq\frac{\sigma_{x_{true}}\cdot\sigma_{y_{true}}}{\sigma_{x_{observed}}\cdot\sigma_{y_{observed}}}\Longleftrightarrow Cov\left(x_{observed},y_{observed}\right)\leq\sigma_{x_{true}}\cdot\sigma_{y_{true}}
+\]
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+נשים לב כי מתקיים:
+\begin_inset Formula 
+\[
+Cov\left(x_{observed},y_{observed}\right)=Cov\left(x_{true}+x_{error},y_{true}+y_{error}\right)=Cov\left(x_{true},y_{true}+y_{error}\right)+Cov\left(x_{error},y_{true}+y_{error}\right)
+\]
+
+\end_inset
+
+
+\begin_inset Formula 
+\[
+=Cov\left(x_{true},y_{true}\right)+Cov\left(x_{true},y_{error}\right)+Cov\left(x_{error},y_{true}\right)+Cov\left(x_{error},y_{error}\right)=
+\]
+
+\end_inset
+
+
+\begin_inset Formula 
+\[
+=Cov\left(x_{true},y_{true}\right)
+\]
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+המאי תלות שאר ה- 
+\begin_inset Formula $Cov$
+\end_inset
+
+ מתאפסים.
+ על כן נסכם 
+\begin_inset Formula 
+\[
+Cov\left(x_{observed},y_{observed}\right)\leq\sigma_{x_{true}}\cdot\sigma_{y_{true}}\Longleftrightarrow Cov\left(x_{true},y_{true}\right)\leq\sigma_{x_{true}}\cdot\sigma_{y_{true}}
+\]
+
+\end_inset
+
+
+\begin_inset Formula 
+\[
+\Longleftrightarrow\frac{Cov\left(x_{true},y_{true}\right)}{\sigma_{x_{true}}\cdot\sigma_{y_{true}}}\leq1\Longleftrightarrow Cor\left(x_{true},y_{true}\right)\leq1
+\]
+
+\end_inset
+
+הגענו בשקילות לפסוק אמת ועל כן מתקיים האי שיוויון שרצינו כנדרש.
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection*
+שאלה
+\family roman
+\series bold
+\shape up
+\size large
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+2
+\numeric off
+:
+\end_layout
+
+\begin_layout Standard
+אלפא של 
+\begin_inset Formula $Cronbach$
+\end_inset
+
+ היא מדד ל
+\series bold
+מהימנות פנימית
+\series default
+ של כלי המדידה, והחישוב שלה מתבסס על שני גורמים מרכזיים
+\begin_inset Newline newline
+\end_inset
+
+1.
+ 
+\begin_inset Formula $K-number\,of\,items\,in\,the\,questionnaire$
+\end_inset
+
+ מספר הפיצ'רים.
+\begin_inset Newline newline
+\end_inset
+
+2.
+ 
+\begin_inset Formula $\overline{r}-mean\,correlation$
+\end_inset
+
+ הקורולציה בין כל זוג פיצ'רים, לא כולל את הקורלציה של כל פיצ'ר עם עצמו )תמיד
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+1
+\numeric off
+(.
+\end_layout
+
+\begin_layout Subsection*
+שאלה
+\family roman
+\series bold
+\shape up
+\size large
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+3
+\numeric off
+:
+\end_layout
+
+\begin_layout Subsubsection*
+סעיף א'
+\end_layout
+
+\begin_layout Standard
+בשורה
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+23
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\numeric off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+מחשבים את מקדם המהימנות אשר מוגדר על ידי 
+\begin_inset Formula 
+\[
+reliability=\frac{\sigma_{x_{true}}^{2}}{\sigma_{x_{observed}}^{2}}
+\]
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+זהו בעצם היחס בין שונות הערכים האמיתיים 
+\begin_inset Formula $\sigma_{x_{true}}^{2}$
+\end_inset
+
+, במקרה זה ציונים, לערכים הנצפים 
+\begin_inset Formula $\sigma_{x_{observed}}^{2}$
+\end_inset
+
+.
+ במילים אחרות, כמה אחוז מתוך הציונים הנצפים מוסבר על ידי הציונים האמיתיים.
+\end_layout
+
+\begin_layout Subsubsection*
+סעיף ב'
+\end_layout
+
+\begin_layout Standard
+ניתן לחשב את השונות הנצפית 
+\begin_inset Formula $\sigma_{x_{observed}}^{2}$
+\end_inset
+
+ על ידי: 
+\end_layout
+
+\begin_layout Subsubsection*
+\begin_inset Formula 
+\[
+\sigma_{x_{observed}}^{2}=\sigma_{x_{true}}^{2}+\sigma_{error}^{2}.
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+שורת הקוד תהיה- 
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Graphics
+	filename pasted9.png
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+סעיף ג'
+\end_layout
+
+\begin_layout Standard
+עבור כל אחד מהגורמים נכתוב האם ישפיע על מהימנות המדידה 
+\begin_inset Formula $reliability=\frac{\sigma_{x_{true}}^{2}}{\sigma_{x_{observed}}^{2}}=1-\frac{\sigma_{error}^{2}}{\sigma_{x_{observed}}^{2}}$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Itemize
+תוחלת הציונים האמיתיים- 
+\series bold
+לא ישפיע
+\series default
+ על מהימנות המדידה.
+ נשים לב כי השונות בלתי תלויה בתוחלת של הציונים האמיתיים, לכן לא נצפה כי
+ היא תשפיע בצורה כלשהי על השונות.
+ מכך שהמהימנות היא פונקציה של השונות האמיתית והנצפית, לא נצפה לשינוי במהימנות.
+ במילים אחרות, אנחנו בעצם מזיזים את עקומת הגאוס של הציונים האמיתיים ימינה
+ או שמאלה מבלי לשנות את הרוחב שלה, ובהתאם גם כיוון שלא שינינו את הרעש נצפה
+ לראות את עקומת הגאוס של הציונים הנצפים זזה באותו יחס ונשארת גם היא באותו
+ הרוחב )מה שמייצג את השונות(.
+\end_layout
+
+\begin_layout Itemize
+שונות הציונים האמיתיים- 
+\series bold
+ישפיע
+\series default
+ על מהימנות המדידה.
+ נשים לב כי 
+\begin_inset Formula $reliability=\frac{\sigma_{x_{true}}^{2}}{\sigma_{x_{observed}}^{2}}=\frac{\sigma_{x_{true}}^{2}}{\sigma_{x_{true}}^{2}+\sigma_{error}^{2}}$
+\end_inset
+
+.
+ בשינוי השונות 
+\begin_inset Formula $\sigma_{x_{true}}^{2}$
+\end_inset
+
+ אנחנו משפיעים על היחס 
+\begin_inset Formula $\frac{\sigma_{x_{true}}^{2}}{\sigma_{x_{true}}^{2}+\sigma_{error}^{2}}$
+\end_inset
+
+ ומשנים אותו.
+ זאת היות וחיבור וחיסור לא שומרים על היחס ביו המונה והמכנה.
+ 
+\end_layout
+
+\begin_layout Itemize
+תוחלת הטעות- 
+\series bold
+לא ישפיע
+\series default
+ על מהימנות המדידה.
+ כמו שראינו קודם שינוי התוחלת לא משפיע על השונות של הטעות.
+ לכן כאשר נחשב את המהימנות 
+\begin_inset Formula $\sigma_{error}^{2}$
+\end_inset
+
+ ישאר כמו שהיה.
+ בעבור 
+\begin_inset Formula $\sigma_{x_{true}}^{2}$
+\end_inset
+
+ כמובן שהוא לא משתנה בהתאם לשינוי הטעות כי הוא לא תלוי או מחושב בעזרת הטעות.
+ על כן נקבל כי המהימנות לא תשתנה.
+\end_layout
+
+\begin_layout Itemize
+שונות הטעות- 
+\series bold
+ישפיע
+\series default
+ על מהימנות המדידה.
+ ראינו כי 
+\begin_inset Formula $reliability=\frac{\sigma_{x_{true}}^{2}}{\sigma_{x_{true}}^{2}+\sigma_{error}^{2}}$
+\end_inset
+
+.
+ כאשר אנו מגדילים את 
+\begin_inset Formula $\sigma_{error}^{2}$
+\end_inset
+
+ אנו מקטינים את המהימנות, וכאשר אנחנו מקטינים את 
+\begin_inset Formula $\sigma_{error}^{2}$
+\end_inset
+
+ אנו מגדילים את המהימנות.
+\end_layout
+
+\begin_layout Subsubsection*
+סעיף ד'
+\end_layout
+
+\begin_layout Standard
+בדקנו את התשובות שלנו ב-
+\begin_inset Formula $R$
+\end_inset
+
+ כנדרש.
+\end_layout
+
+\begin_layout Subsubsection*
+סעיף ה'
+\end_layout
+
+\begin_layout Standard
+\begin_inset Tabular
+<lyxtabular version="3" rows="4" columns="4">
+<features tabularvalignment="middle">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+עוצמת המבחן
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+הסיכוי לטעות מסוג 
+\begin_inset Formula $II$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ סטיית התקן של הטעות
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+מקדם המהימנות 
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $0.6907$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $0.3093$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $12$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $0.4$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $0.8538$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $0.1462$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $8.1$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $0.6$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $0.981$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $0.0190$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $4.9$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $0.8$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\bar under
+נסביר את תוצאות הסימולציה
+\bar default
+-
+\begin_inset Newline newline
+\end_inset
+
+נשים לב כי לפי התוצאות ככל שהמהימנות הייתה גבוהה יותר, כך הסיכוי לטעות מסוג
+ שני היה נמוך יותר ובהתאמה עוצמת המבחן הייתה גבוהה יותר.
+ זה המצב כיוון שכמו שלמדנו בכיתה, מקדם המיהמנות נותן לנו אינדיקציה כמה אחוז
+ מתוך הציונים הכלליים הצלחנו להסביר בעזרת הציונים הנצפים, וככל שנוכל להסביר
+ יותר מהשונות כך מה שנצפה יהיה יותר דומה למציאות והסיכוי שנטעה ונחשוב שאין
+ אפקט יקטן.
+ לכן אנו רואים שמהימנות גבוהה יותר מקטינה את הטעות מסוג שני.
+\end_layout
+
+\begin_layout Subsubsection*
+)*!*!*(סעיף ו'
+\end_layout
+
+\begin_layout Standard
+שינינו את התוחלת של האוכלוסייה השניה שתהיה זהה לזו של האוכלוסייה הראשונה.
+ מעבר לזה השארנו את כל השאר אותו הדבר.
+ לפי השינוי יצרנו מדגם של שתי אוכלוסיות זהות וההשערה האמיתית היא 
+\begin_inset Formula $H_{0}$
+\end_inset
+
+.
+\begin_inset Newline newline
+\end_inset
+
+אלו התוצאות שיקבלנו-
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Tabular
+<lyxtabular version="3" rows="4" columns="3">
+<features tabularvalignment="middle">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+הסיכוי לטעות מסוג 
+\begin_inset Formula $I$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ סטיית התקן של הטעות
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+מקדם המהימנות 
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $0.0430$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $12.2$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $0.4$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $0.0492$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $8.1$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $0.6$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $0.0498$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $4.8$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $0.8$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+עבור כל מקדם מהימנות היינו צריכים לשמור פחות או יותר על אותה סטיית תקן של
+ הטעות כמו שעשינו בסעיף הקודם.
+\begin_inset Newline newline
+\end_inset
+
+נשים לב כי ככל שעלה מקדם המיהמנות, כך הסיכוי לטעות מסוג ראשון עלתה.
+ זאת כאשר העלייה היא לא משמעותית כל כך, ויש לומר כי התוצאות לא היו עקביות
+ בין הרצות שונות.
+\begin_inset Newline newline
+\end_inset
+
+בהינתן נתונים אלו, ניתן לומר כי זהו ביטוי ל-
+\begin_inset Formula $trade\,off$
+\end_inset
+
+ בין שתי סוגי הטעויות.
+ הקטנה של טעות אחת עולה בהגדלה של טעות אחרת.
+ כאשר אנו מעלים את המהימנות אז אנחנו מקטינים את ההסתברות לטעות מסוג שני,
+ אבל אנו משלמים על זה בהגדלת הטעות מהסוג הראשון.
+\end_layout
+
+\begin_layout Subsection*
+שאלה
+\family roman
+\series bold
+\shape up
+\size large
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+4
+\numeric off
+:
+\end_layout
+
+\begin_layout Subsubsection*
+סעיף א'
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename pasted1.png
+	lyxscale 60
+	scale 60
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+נבחר את ערך המתאם המתאים ביותר לכל אחד מהגרפים מבין הערכים הבאים:
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $r=1\,\,r=0\:r=0.7\:r=0.4\:r=undefined\,\,r=-0.7\,\,r=-0.4\,\,r=-1$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Tabular
+<lyxtabular version="3" rows="20" columns="2">
+<features tabularvalignment="middle">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $graph$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $r$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $1a$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\numeric on
+\begin_inset Formula $1$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $2a$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $1$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $3a$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $0$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $1b$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $0.7$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $2b$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $1$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $3b$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $0$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $1c$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $0.4$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $2c$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $1$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $3c$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $0$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $1d$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $0$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $2d$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $0$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $3d$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $0$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $1e$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $-0.4$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $2e$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $-1$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $3e$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $0$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $1f$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $-0.7$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $2f$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $-1$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $1g$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $-1$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $2g$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $-1$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+סעיף ב'
+\end_layout
+
+\begin_layout Standard
+מה משותף לגרפים 
+\begin_inset Formula $3a-3e$
+\end_inset
+
+? מה ניתן ללמוד מכך בנוגע למדד מתאם פירסון?
+\begin_inset Newline newline
+\end_inset
+
+המשותף לגרפים האלה שבכולם המתאם הוא 
+\begin_inset Formula $0$
+\end_inset
+
+.
+ ניתן ללמוד כי מתאם פירסון עובד בצורה טובה מאוד עבור קשר לינארי בין המשתנים,
+ אך עבור מצב שבו יש קשר שאינו לינארי - מתאם פירסון לא יוכל לזהות זאת והוא
+ יהיה שווה 
+\begin_inset Formula $0$
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Subsection*
+שאלה
+\family roman
+\series bold
+\shape up
+\size large
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+5
+\numeric off
+:
+\end_layout
+
+\begin_layout Subsubsection*
+סעיף א'
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename pasted4.png
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+מה שניתן לראות מהגרף בנוגע לקשר בין שני המשתנים הוא שקיים בניהם מתאם, אבל
+ הוא חלש.
+ רואים סוג של קשר לינארי בעל שיפוע שלילי אבל בקורולציה נמוכה.
+\end_layout
+
+\begin_layout Subsubsection*
+סעיף ב'
+\end_layout
+
+\begin_layout Standard
+באופן ידני, חשבו את סטיית התקן של שני המשתנים ואת השונות המשותפת.
+ הציבו את הנתונים שקיבלתם בנוסחא לחישוב מתאם פירסון.
+ פרטו את דרך החישוב, את המתאם, וכתבו מהו אחוז השונות המוסברת.
+\begin_inset Formula 
+\[
+sd_{x}=\sqrt{\frac{\sum_{i=1}^{n}\left(x_{i}-\overline{x}\right)^{2}}{n-1}}=0.938
+\]
+
+\end_inset
+
+
+\begin_inset Formula 
+\[
+sd_{y}=\sqrt{\frac{\sum_{i=1}^{m}\left(y_{i}-\overline{y}\right)^{2}}{m-1}}=1.4202
+\]
+
+\end_inset
+
+
+\begin_inset Formula 
+\[
+cov\left(x,y\right)=\frac{\sum_{i=1}^{n}\left(x_{i}-\overline{x}\right)\left(y_{i}-\overline{y}\right)}{n}=-0.9007
+\]
+
+\end_inset
+
+
+\begin_inset Formula 
+\[
+r_{x,y}=\frac{cov(x,y)}{sd_{x}\times sd_{y}}=-0.6754
+\]
+
+\end_inset
+
+
+\begin_inset Formula 
+\[
+r_{x,y}^{2}=\left(-0.6754896\right)^{2}=0.4562..
+\]
+
+\end_inset
+
+לכן אחוז השונות המוסברת הוא 
+\begin_inset Formula $\%45.6$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+סעיף ג'
+\end_layout
+
+\begin_layout Standard
+בחישוב ב-
+\begin_inset Formula $R$
+\end_inset
+
+ קיבלנו-
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula 
+\[
+sd_{x}=0.9389028
+\]
+
+\end_inset
+
+
+\begin_inset Formula 
+\[
+sd_{y}=1.420281
+\]
+
+\end_inset
+
+
+\begin_inset Formula 
+\[
+cov\left(x,y\right)=-0.9007692
+\]
+
+\end_inset
+
+
+\begin_inset Formula 
+\[
+r_{x,y}=-0.6754896
+\]
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+אותן תוצאות :(
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+נעשה מבחן לבדיקת המובהקות של המתאם.
+ 
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Graphics
+	filename pasted5.png
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+ה-
+\begin_inset Formula $pvalue$
+\end_inset
+
+ שקיבלנו הוא 
+\begin_inset Formula $0.008019$
+\end_inset
+
+ 
+\begin_inset Newline newline
+\end_inset
+
+תחת הנתונים האלו הצלחנו לדחות את השערת האפס.
+ השערת האפס היא שאין קשר בין שני המשתנים )כלומר הפרמטר 
+\begin_inset Formula $r=0$
+\end_inset
+
+(.
+ בדקנו כמה הערך 
+\begin_inset Formula $r$
+\end_inset
+
+ שקיבלנו קיצוני ביחס להשערת האפס שאין קשר בין המשתנים.
+ הוא היה מספיק קיצוני ולכן הסקנו כי אכן יש קשר בין 
+\begin_inset Formula $x$
+\end_inset
+
+ ו- 
+\begin_inset Formula $y$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Subsubsection*
+סעיף ד'
+\end_layout
+
+\begin_layout Standard
+נחשב את משוואת הרגרסיה הלינארית באופן ידני:
+\begin_inset Newline newline
+\end_inset
+
+משוואת הרגרסיה הלינארית: 
+\begin_inset Formula 
+\[
+\hat{y}=bx+a
+\]
+
+\end_inset
+
+ כאשר מתקיים: 
+\begin_inset Formula 
+\[
+b=r\cdot\frac{sd_{y}}{sd_{x}}=-0.6754\cdot\frac{1.4202}{0.9389}=-1.0218
+\]
+
+\end_inset
+
+
+\begin_inset Formula 
+\[
+a=\overline{y}-b\cdot\overline{x}=36.8-\left(-1.0218\right)\cdot4.321=41.924
+\]
+
+\end_inset
+
+ולכן אלו הם המקדמים של הרגרסיה הלינארית.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Graphics
+	filename pasted6.png
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+חישוב באמצעות 
+\begin_inset Formula $R$
+\end_inset
+
+- 
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Graphics
+	filename pasted7.png
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+תוצאות זהות :(
+\end_layout
+
+\begin_layout Subsubsection*
+סעיף ה'
+\end_layout
+
+\begin_layout Standard
+ראשית חילקנו את הנתונים לפי החציון שהיה שווה ל- 
+\begin_inset Formula $36.8$
+\end_inset
+
+.
+ קיבלנו
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+2
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\numeric off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ קבוצות בגודל 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+7
+\numeric off
+.
+ ביצענו מבחן 
+\begin_inset Formula $t$
+\end_inset
+
+ הבודק הפרשים בין האוכלוסיות עבור ה- 
+\begin_inset Formula $warmness$
+\end_inset
+
+ ואלו התוצאות שהתקבלו: 
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Graphics
+	filename pasted8.png
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+ה- 
+\begin_inset Formula $p\,value$
+\end_inset
+
+ שווה ל 
+\begin_inset Formula $0.1922$
+\end_inset
+
+ ולכן לא ניתן לדחות את השערת האפס ולא ניתן להסיק על הבדל בין האוכלוסיות.
+\begin_inset Newline newline
+\end_inset
+
+בסעיף ג' הצלחנו לדחות את השערת האפס ולהסיק על מתאם בין טפרטורת הגוף והחמימות
+ החברתית.
+ הסיבה להבדל נובעת מכך שבביצוע המבחן כמו בסעיף זה אנו מאבדים הרבה מידע ומכניסים
+ רעש.
+ לקחנו משתנה שהוא נומרי והפכנו אותו לקטגוריאלי.
+\end_layout
+
+\end_body
+\end_document

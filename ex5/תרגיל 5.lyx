@@ -1,0 +1,2020 @@
+#LyX 2.2 created this file. For more info see http://www.lyx.org/
+\lyxformat 508
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language hebrew
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 2cm
+\topmargin 2cm
+\rightmargin 2cm
+\bottommargin 3cm
+\headheight 2cm
+\headsep 2cm
+\footskip 2cm
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+שיטות מחקר- תרגיל
+\family roman
+\series medium
+\shape up
+\size largest
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+6
+\end_layout
+
+\begin_layout Author
+מגישות- זוהר בוחניק
+\family roman
+\series medium
+\shape up
+\size large
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+311142293
+\family roman
+\series medium
+\shape up
+\size large
+\emph off
+\numeric off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+אלה דובדבן 
+\numeric on
+305564866
+\end_layout
+
+\begin_layout Subsection*
+שאלה
+\family roman
+\series bold
+\shape up
+\size large
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+1
+\numeric off
+:
+\end_layout
+
+\begin_layout Standard
+
+\bar under
+נתונים:
+\begin_inset Newline newline
+\end_inset
+
+
+\bar default
+מנת המשכל באוכלוסיה הכללית- מתפלגת 
+\begin_inset Formula $N\left(100,15^{2}\right)$
+\end_inset
+
+.
+\begin_inset Newline newline
+\end_inset
+
+נתוני רמת המשכל של 
+\begin_inset Formula $n$
+\end_inset
+
+ חובבי מוזיקה קלאסית, ממוצע הנתונים- 
+\begin_inset Formula $106$
+\end_inset
+
+.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+חוקר א'
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\bar under
+השערה
+\bar default
+- 
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $H_{1}$
+\end_inset
+
+ לחובבי מוזיקה קלאסית יש רמת משכל גבוהה יותר מהאוכלוסיה הכללית.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $H_{0}$
+\end_inset
+
+ לחובבי מוזיקה קלאסית אין רמת משכל גבוהה יותר מהאוכלוסיה הכללית.
+\begin_inset Newline newline
+\end_inset
+
+כלומר הוא מבצע מבחן 
+\series bold
+חד 
+\series default
+זנבי
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+חוקר ב'
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\bar under
+השערה
+\bar default
+-
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $H_{1}$
+\end_inset
+
+ לחובבי מוזיקה קלאסית יש רמת משכל שונה מהאוכלוסיה הכללית.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $H_{0}$
+\end_inset
+
+ לחובבי מוזיקה קלאסית יש רמת משכל דומה לאוכלוסיה הכללית.
+\begin_inset Newline newline
+\end_inset
+
+כלומר הוא מבצע מבחן 
+\series bold
+דו
+\series default
+ זנבי וזאת על ידי רווח בר סמך.
+\begin_inset Newline newline
+\end_inset
+
+כדי לדחות את השערת האפס 
+\begin_inset Formula $100$
+\end_inset
+
+צריך להיות מחוץ לרווח הבר סמך.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+מכך שממוצע נתוני רמת המשכל הוא 
+\begin_inset Formula $106$
+\end_inset
+
+, ברור כי רווח בר הסמך נמצא בטווח 
+\begin_inset Formula $x_{1}\leq106\leq x_{2}$
+\end_inset
+
+ )כאשר 
+\begin_inset Formula $x_{1},x_{2}\in\mathbb{R}$
+\end_inset
+
+ ניתנים לחישוב בביצוע המבחן(.
+ אם 
+\begin_inset Formula $100$
+\end_inset
+
+לא נמצא ברווח בר הסמך, אזי ניתן לדחות את השערת האפס של חוקר ב'.
+ נשים לב כי נובע מכך ש- 
+\begin_inset Formula $x_{1}>100$
+\end_inset
+
+, אחרת 
+\begin_inset Formula $100$
+\end_inset
+
+ היה חייב להיות ברווח בר סמך.
+ כיוון שהמבחן של חוקר א' הוא חד זנבי עם אותה 
+\begin_inset Formula $\alpha$
+\end_inset
+
+, הערך סף שלו לדחיית השערת האפס נמוך יותר ובגלל שראינו שבמבחן הדו זנבי התוחלת
+ הייתה גדולה מ 
+\begin_inset Formula $100$
+\end_inset
+
+ )וקטנה מ 
+\begin_inset Formula $x_{2}$
+\end_inset
+
+( בסיכוי של 
+\begin_inset Formula $95\%$
+\end_inset
+
+ נסיק שגם ניתן לדחות את השערת האפס של חוקר א'
+\begin_inset Newline newline
+\end_inset
+
+אזור הדחייה של חד זנבי-
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Graphics
+	filename pasted8.png
+	lyxscale 50
+	scale 50
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+לכן התשובה היא: ב.
+\end_layout
+
+\begin_layout Subsection*
+שאלה
+\family roman
+\series bold
+\shape up
+\size large
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+2
+\numeric off
+:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Tabular
+<lyxtabular version="3" rows="7" columns="6">
+<features tabularvalignment="middle">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+מונית שירות
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+מסוף שפירים
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+רכב פרטי
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\numeric on
+480
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+לוח טרמפים
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+מספר נבדק
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\numeric on
+107
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\numeric on
+126
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\numeric on
+111
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\numeric on
+112
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\numeric on
+123
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\numeric on
+1
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\numeric on
+135
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\numeric on
+123
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\numeric on
+115
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\numeric on
+117
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\numeric on
+113
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\numeric on
+2
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\numeric on
+126
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\numeric on
+130
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\numeric on
+117
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\numeric on
+105
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\numeric on
+127
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\numeric on
+3
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\numeric on
+131
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\numeric on
+89
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\numeric on
+113
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\numeric on
+130
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\numeric on
+4
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\numeric on
+123
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\numeric on
+99
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\numeric on
+119
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\numeric on
+5
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\numeric on
+115
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\numeric on
+6
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+סעיף א'
+\end_layout
+
+\begin_layout Standard
+
+\bar under
+ממוצעים
+\bar default
+:
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Tabular
+<lyxtabular version="3" rows="2" columns="6">
+<features tabularvalignment="middle">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ממוצע כללי
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $5$
+\end_inset
+
+- מונית שירות
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $4$
+\end_inset
+
+- מסוף שפירים
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $3$
+\end_inset
+
+- רכב פרטי
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $2$
+\end_inset
+
+- קו 
+\numeric on
+480
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $1$
+\end_inset
+
+- לוח טרמפים
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $117.652$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $\frac{622}{5}=124.4$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $\frac{468}{4}=117$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $\frac{555}{5}=111$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $\frac{698}{6}=116.33$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $\frac{363}{3}=121$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+כאשר את הממוצע הכללי חישבנו על ידי סכימת כל הערכים בטבלה וחלוקה ב- 
+\begin_inset Formula $23$
+\end_inset
+
+ שזה מספר הערכים בטבלה.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+סעיף ב'
+\end_layout
+
+\begin_layout Standard
+נבצע מבחן ניתוח שונות חד גורמי עבור רמת מובהקות 
+\begin_inset Formula $5\%$
+\end_inset
+
+ ובדקו האם יש הבדל בין הקבוצות.
+ ניתן להניח שיוויון שונויות והתפלגות נורמלית.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\bar under
+השערות
+\bar default
+:
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $H_{0}$
+\end_inset
+
+: 
+\begin_inset Formula $\mu_{1}=\mu_{2}=\mu_{3}=\mu_{4}=\mu_{5}=\mu$
+\end_inset
+
+ כלומר מניחים שהם מאותה התפלגות.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $H_{1}$
+\end_inset
+
+: המשלים- יש הבדלים בין הקבוצות\SpecialChar endofsentence
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+הליך בדיקת ההשערות:
+\begin_inset Newline newline
+\end_inset
+
+עבור כל קבוצה 
+\begin_inset Formula $i\in\left[5\right]$
+\end_inset
+
+, 
+\begin_inset Formula 
+\[
+SS_{i}=\sum_{j=1}^{n_{i}}\left(y_{i,j}-\bar{Y}_{i}\right)^{2}
+\]
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+כך ש 
+\begin_inset Formula $SSW=\sum_{i=1}^{k}SS_{i}$
+\end_inset
+
+.
+ 
+\begin_inset Newline newline
+\end_inset
+
+נחשב:
+\begin_inset Formula 
+\[
+SS_{1}=\left(123-121\right)^{2}+\left(113-121\right)^{2}+\left(127-121\right)^{2}=104
+\]
+
+\end_inset
+
+
+\begin_inset Formula 
+\[
+SS_{2}=\left(112-116.33\right)^{2}+\left(117-116.33\right)^{2}+\left(105-116.33\right)^{2}+\left(130-116.33\right)^{2}+\left(119-116.33\right)^{2}+\left(115-116.33\right)^{2}=343.33
+\]
+
+\end_inset
+
+
+\begin_inset Formula 
+\[
+SS_{3}=\left(111-111\right)^{2}+\left(115-111\right)^{2}+\left(117-111\right)^{2}+\left(113-111\right)^{2}+\left(99-111\right)^{2}=200
+\]
+
+\end_inset
+
+
+\begin_inset Formula 
+\[
+SS_{4}=\left(126-117\right)^{2}+\left(123-117\right)^{2}+\left(130-117\right)^{2}+\left(89-117\right)^{2}=1070
+\]
+
+\end_inset
+
+
+\begin_inset Formula 
+\[
+SS_{5}=\left(107-124.4\right)^{2}+\left(135-124.4\right)^{2}+\left(126-124.4\right)^{2}+\left(131-124.4\right)^{2}+\left(123-124.4\right)^{2}=463.2
+\]
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+ולכן:
+\begin_inset Formula 
+\[
+SSW=104+343.33+200+1070+463.2=2180.53
+\]
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+סכום הריבועים בין הקבוצות 
+\begin_inset Formula 
+\[
+SSB=\sum_{i=1}^{k}n_{i}\left(\bar{Y}_{i}-\bar{\bar{Y}}\right)^{2}=
+\]
+
+\end_inset
+
+
+\begin_inset Formula 
+\[
+=3\left(121-117.652\right)^{2}+6\left(116.33-117.652\right)^{2}+5\left(111-117.652\right)^{2}+4\left(117-117.652\right)^{2}+5\left(124.4-117.652\right)^{2}=
+\]
+
+\end_inset
+
+
+\begin_inset Formula 
+\[
+=494.736872
+\]
+
+\end_inset
+
+נאמוד את השונות בתוך כל אוכלוסייה ובין אוכלוסיות באמצעות ה 
+\begin_inset Formula $SSW$
+\end_inset
+
+ וה- 
+\begin_inset Formula $SSB$
+\end_inset
+
+:
+\begin_inset Formula 
+\[
+MSB=\frac{SSB}{df_{between}}=\frac{SSB}{k-1}=\frac{494.736872}{4}=123.68
+\]
+
+\end_inset
+
+
+\begin_inset Formula 
+\[
+MSW=\frac{SSW}{df_{within}}=\frac{SSW}{N-k}=\frac{2180.53}{18}=121.14
+\]
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+תחת השערת האפס, מתקיים: 
+\begin_inset Formula $\frac{MSB}{MSW}\sim F_{4,18}$
+\end_inset
+
+ 
+\begin_inset Newline newline
+\end_inset
+
+אם נקבל תוצאה קיצונית ביחס להתפלגות 
+\begin_inset Formula $F$
+\end_inset
+
+ נוכל לדחות את השערת האפס.
+\begin_inset Formula 
+\[
+\frac{MSB}{MSW}=\frac{123.68}{121.14}=1.02096
+\]
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+נבדוק בטבלת 
+\begin_inset Formula $F$
+\end_inset
+
+ עבור 
+\begin_inset Formula $\alpha=0.05$
+\end_inset
+
+: הערך הקריטי הוא 
+\begin_inset Formula $2.9277$
+\end_inset
+
+.
+ 
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+על כן 
+\series bold
+לא ניתן לדחות את השערת האפס 
+\series default
+)כי 
+\begin_inset Formula $1.02096<2.9277$
+\end_inset
+
+(.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+סעיף ג'
+\end_layout
+
+\begin_layout Standard
+מה יקרה לערך 
+\begin_inset Formula $F$
+\end_inset
+
+ הנצפה אם יתברר שנפלה טעות בנתונים וזמן ההגעה של כל אדם בקבוצת "רכב פרטי"
+ הוא למעשה גבוה יותר ב 
+\begin_inset Formula $4$
+\end_inset
+
+ דק' לזמן ההגעה? 
+\begin_inset Newline newline
+\end_inset
+
+לאחר השינוי המדובר כיוון שאנחנו מעלים את כל הדגימות של אותה הקבוצה בקבוע
+ זהה אנחנו לא משפיעים על השונות ואז נקבל כי 
+\begin_inset Formula $SS_{3}=\sum_{j=1}^{5}\left(y_{3,j}-\bar{Y}_{3}\right)^{2}$
+\end_inset
+
+ לא ישתנה.
+ כיוון ש-
+\begin_inset Formula $SSW$
+\end_inset
+
+ מורכב מהסכום של ה 
+\begin_inset Formula $SS_{i}$
+\end_inset
+
+ עבור כל הקבוצות, נקבל כי גם 
+\begin_inset Formula $SSW$
+\end_inset
+
+ לא ישתנה כלל, ובעקבותיו גם 
+\begin_inset Formula $MSW=\frac{SSW}{df_{within}}$
+\end_inset
+
+ לא ישתנה.
+ עבור 
+\begin_inset Formula $SSB=\sum_{i=1}^{k}n_{i}\left(\bar{Y}_{i}-\bar{\bar{Y}}\right)^{2}$
+\end_inset
+
+ נצפה כן לשינוי כיוון שהוא בודק רעש בין נבדקי והרי הוספנו לאחת מהקבוצות
+ את הקבוע 
+\begin_inset Formula $4$
+\end_inset
+
+ ולכן שינינו את היחסים בין הקבוצות השונות.
+ כיוון שספציפית ממוצע הנסיעה ברכב פרטי היה נמוך יותר מכל השאר, נצפה לכך
+ שהוא עכשיו יקטין את הפערים, הממוצע של רכב פרטי יעלה וכן גם הממוצע הכללי
+ אבל ההפרש בניהם יקטן, כלומר 
+\begin_inset Formula $SSB$
+\end_inset
+
+ יקטן בהתאמה.
+ מכאן נובע כי 
+\begin_inset Formula $MSB=\frac{SSB}{df_{between}}$
+\end_inset
+
+ יקטן גם הוא.
+\begin_inset Newline newline
+\end_inset
+
+נשים לב כי הסטטיסטי מורכב מהמנה 
+\begin_inset Formula $\frac{MSB}{MSW}$
+\end_inset
+
+, כך שראינו כי המונה יקטן והמכנה לא ישתנה, מכאן נובע כי המנה תקטן ביחס לנתונים
+ הקודמים.
+ על כן הערך 
+\begin_inset Formula $F$
+\end_inset
+
+ הנצפה יקטן )יהיה יותר קשה לדחות את השערת האפס(.
+\end_layout
+
+\begin_layout Subsubsection*
+סעיף ד'
+\end_layout
+
+\begin_layout Standard
+מה יקרה לערך 
+\begin_inset Formula $F$
+\end_inset
+
+ הנצפה שנקבל אם מכל האנשים בכל הקבוצות נחסיר קבוע של 
+\begin_inset Formula $10$
+\end_inset
+
+ דק? כיוון שאנחנו מחסירים באופן אחיד קבוע מכל הקבוצות, אנו שומרים על היחס
+ בניהן ולא משנים את השונות.
+ נזכור כי המטרה שלנו במבחן 
+\begin_inset Formula $ANOVA$
+\end_inset
+
+ היא לזהות הבדלים בין הקבוצות )האם הן מאותה התפלגות או לא( ואם מזיזים בקבוע
+ את כל הנתונים עדיין ניתן באותה מידה לבדוק את היחסים והערך 
+\begin_inset Formula $F$
+\end_inset
+
+ הנצפה לא ישתנה.
+ ניתן לראות גם ברמה המתמטית בחישוב 
+\begin_inset Formula $SSW$
+\end_inset
+
+ ו- 
+\begin_inset Formula $SSB$
+\end_inset
+
+ שהשינוי בקבוע לא ישנה את המנה 
+\begin_inset Formula $\frac{MSB}{MSW}$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Subsection*
+שאלה
+\family roman
+\series bold
+\shape up
+\size large
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+3
+\numeric off
+:
+\end_layout
+
+\begin_layout Subsubsection*
+סעיף א'
+\end_layout
+
+\begin_layout Standard
+__
+\end_layout
+
+\begin_layout Subsubsection*
+סעיף ב'
+\end_layout
+
+\begin_layout Standard
+___
+\end_layout
+
+\begin_layout Subsubsection*
+סעיף ג'
+\end_layout
+
+\begin_layout Standard
+___
+\end_layout
+
+\begin_layout Subsection*
+שאלה
+\family roman
+\series bold
+\shape up
+\size large
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+4
+\numeric off
+:
+\end_layout
+
+\begin_layout Standard
+מוטי חשב שישנה טעות בחישוביה של דפנה בשל הערך 
+\begin_inset Formula $F=0.79$
+\end_inset
+
+ שנחשב מאוד נמוך ולא סביר.
+ זאת בגלל שהרי הערך 
+\begin_inset Formula $F$
+\end_inset
+
+ מחושב על ידי המנה 
+\begin_inset Formula $\frac{MSB}{MSW}$
+\end_inset
+
+ כאשר ערך 
+\begin_inset Formula $0.79$
+\end_inset
+
+ מסמל כי ה- 
+\begin_inset Formula $MSW$
+\end_inset
+
+ היה גדול יותר מה- 
+\begin_inset Formula $MSB$
+\end_inset
+
+ בצורה משמעותית.
+ כלומר לפי הערך המתקבל נראה כי השונות בין הקבוצות קטנה מהשונות בתוך הקבוצות.
+ זאת תוצאה פחות סבירה כיוון שכאשר יש שוני בין הקבוצות יתקבל ערך גבוה של
+ 
+\begin_inset Formula $F$
+\end_inset
+
+ )גבוה משמעותית מ-
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+1
+\numeric off
+( וכאשר אין שינוי בין הקבוצות וכולן בעצם מאותה התפלגות אנחנו נקבל ערך מאוד
+ קרוב ל- 
+\begin_inset Formula $1$
+\end_inset
+
+.
+ בכל מצב לא נצפה לערך קטן משמעותית מ-
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+1
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\numeric off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+ולכן סביר שזאת טעות חישוב.
+\end_layout
+
+\begin_layout Subsection*
+שאלה
+\family roman
+\series bold
+\shape up
+\size large
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+5
+\numeric off
+:
+\end_layout
+
+\begin_layout Standard
+נשים לב כי הטעות שהוא עשה העלתה את פרמטר דרגות החופש המחושב על ידי 
+\begin_inset Formula $n_{x}+n_{y}-2$
+\end_inset
+
+.
+ במקום שהוא יהיה 
+\begin_inset Formula $28$
+\end_inset
+
+ הוא הפך להיות 
+\begin_inset Formula $58$
+\end_inset
+
+.
+ 
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+א' נכון כי- רווח בר סמך מחושב על ידי 
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Graphics
+	filename pasted10.png
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+נשים לב כי 
+\begin_inset Formula $\sqrt{\frac{1}{n_{x}}+\frac{1}{n_{y}}}$
+\end_inset
+
+ עם הנתונים החדשים 
+\series bold
+קטן
+\series default
+ יותר מהערך האמיתי שלו )כי אנחנו מגדילים את המכנה אז השבר קטן(, ואז סה"כ
+ המכפלה עם 
+\begin_inset Formula $\hat{S}_{pooled}$
+\end_inset
+
+ קטנה ורווח הבר סמך קטן.
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+ב' נכון כי- ככל שמספר התצפיות גדול יותר, כך האומדן שלנו מדויק יותר והתפלגות
+ 
+\begin_inset Formula $t$
+\end_inset
+
+ צרה יותר ושואפת לנורמלית.
+ מכאן נובע כי העלת דרגות החופש מקטינה את הערך הקריטי.
+ 
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+ג' נכון כי- הערך ה-
+\begin_inset Formula $t$
+\end_inset
+
+ מחושב על ידי הנוסחה 
+\begin_inset Newline linebreak
+\end_inset
+
+
+\begin_inset Graphics
+	filename pasted11.png
+
+\end_inset
+
+ 
+\begin_inset Newline linebreak
+\end_inset
+
+כמו שאמרנו קודם הביטוי בשורש קטן ועל כן המכנה של הביטוי קטן- והמנה הכוללת
+ גדלה.
+ על כן הערך של 
+\begin_inset Formula $t$
+\end_inset
+
+ גדל.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+לכן 
+\series bold
+התשובה הנכונה היא ד
+\series default
+ כל התשובות נכונות.
+\end_layout
+
+\begin_layout Subsection*
+שאלה
+\family roman
+\series bold
+\shape up
+\size large
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+6
+\numeric off
+:
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+נכון
+\series default
+.
+ בטעות מסוג שני לא דחינו את השערת האפס למרות שהשערת המחקר היא נכונה.
+ כלומר 
+\begin_inset Formula $H_{1}$
+\end_inset
+
+ נכונה אבל לא הצלחנו לדחות את השערת ה- 
+\begin_inset Formula $0$
+\end_inset
+
+.
+ טעות זו תלויה בשטח החפיפה בין ההתפלגויות:
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Graphics
+	filename pasted9.png
+	lyxscale 80
+	scale 80
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+ככל ששטח החפיפה בין ההתפלגויות גדול יותר, כך יש סיכוי גבוה יותר לטעות מסוג
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+2
+\numeric off
+, כלומר למצב שבו הדגימות שלנו יפלו באיזור החפיפה )משמאל לאיזור הדחייה( ולא
+ נוכל לדחות את השערת ה-
+\numeric on
+0
+\numeric off
+.
+ לכן ככל שאחוז החפיפה בין ההתפלגויות יהיה קטן יותר כך עוצמת המבחן תהיה גדולה
+ יותר.
+ 
+\begin_inset Newline newline
+\end_inset
+
+* עוצמת המבחן היא בעצם
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+
+\begin_inset Formula $1-\beta$
+\end_inset
+
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\numeric off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+כאשר 
+\begin_inset Formula $\beta$
+\end_inset
+
+ זה הסיכוי לטעות מסוג
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+2
+\numeric off
+.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+כיצב ניתן להקטין את אחוז החפיפה בין הההתפלגויות? להגדיל את המדגם.
+ ככל שהמדגם גדל כך העוצמה גדלה, זאת משום שסטיית התקן של התפלגות הדגימה קטנה
+ ככל שגודל המדגם גדל, ולכן החפיפה בין ההתפלגויות קטנה.
+\end_layout
+
+\end_body
+\end_document

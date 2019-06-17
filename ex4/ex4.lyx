@@ -1,0 +1,1275 @@
+#LyX 2.2 created this file. For more info see http://www.lyx.org/
+\lyxformat 508
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language hebrew
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 2cm
+\topmargin 2cm
+\rightmargin 2cm
+\bottommargin 3cm
+\headheight 2cm
+\headsep 2cm
+\footskip 2cm
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+שיטות מחקר- תרגיל
+\family roman
+\series medium
+\shape up
+\size largest
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+4
+\end_layout
+
+\begin_layout Author
+מגישות- זוהר בוחניק
+\family roman
+\series medium
+\shape up
+\size large
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+311142293
+\family roman
+\series medium
+\shape up
+\size large
+\emph off
+\numeric off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+אלה דובדבן
+\family roman
+\series medium
+\shape up
+\size large
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+305564866
+\end_layout
+
+\begin_layout Subsection*
+שאלה
+\family roman
+\series bold
+\shape up
+\size large
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+1
+\numeric off
+:
+\end_layout
+
+\begin_layout Standard
+
+\bar under
+סעיף 
+\numeric on
+1
+\numeric off
+-
+\bar default
+
+\begin_inset Newline newline
+\end_inset
+
+• שאלת מחקר: האם יש הבדל בין בנים לבנות בהעדפות של שפת תכנות 
+\begin_inset Newline newline
+\end_inset
+
+• משתנה בת"ל תיאורטי: מין.
+ 
+\begin_inset Newline newline
+\end_inset
+
+• משתנה תלוי תיאורטי: שפת תכנות מועדפת 
+\begin_inset Newline newline
+\end_inset
+
+• משתנה בת"ל אופרציונלי: מין 
+\begin_inset Newline newline
+\end_inset
+
+• משתנה תלוי אופרציונלי: שפת התכנות שהם מעדיפים לפי סקר.
+ זאת כאשר לאחר איסוף הנתונים מספרנו את השפות בסולם לפי כמה הן עיליות 
+\begin_inset Formula $(high\,level)$
+\end_inset
+
+.
+\begin_inset Newline newline
+\end_inset
+
+ 
+\begin_inset Tabular
+<lyxtabular version="3" rows="2" columns="9">
+<features tabularvalignment="middle">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\numeric on
+1
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\numeric on
+2
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\numeric on
+3
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\numeric on
+4
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\numeric on
+5
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\numeric on
+6
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\numeric on
+7
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\numeric on
+8
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\numeric on
+9
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $assembly$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $C\#$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $C$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $C++$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $javaScript$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $java$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $python$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $R$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $matlab$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+• השערת מחקר: גברים ונשים שונים אלה מאלה בהעדפות של שפת תכנות.
+ נשער כי בנות יטו לבחור שפות יותר עיליות כשפות אהובות ואילו גברים יטו לבחור
+ שפות יותר 
+\begin_inset Formula $low\,level$
+\end_inset
+
+ בהשוואה לנשים.
+ זה יתבטא בבחירת השפה המועדפת בסקר 
+\begin_inset Newline newline
+\end_inset
+
+• איסוף הנתונים: איסוף של 
+\begin_inset Formula $35$
+\end_inset
+
+ גברים ו-
+\begin_inset Formula $35$
+\end_inset
+
+ נשים רנדומליים שאנו מכירות.
+ לכל אחד ואחת, בדקנו מה שפת התכנות המועדפת עליהם.
+ זאת כאשר דגמנו מאוכלוסיות של מתכנתים שעובדים בנוסף לתשאול סטודנטים על מנת
+ להגדיל את המהימנות.
+ 
+\begin_inset Newline newline
+\end_inset
+
+
+\bar under
+
+\begin_inset Newline newline
+\end_inset
+
+סעיף 
+\numeric on
+-2
+\numeric off
+
+\begin_inset Newline newline
+\end_inset
+
+
+\bar default
+סוג המערך הוא מתאמי.
+ אנחנו בודקות האם ישנו מתאם בין מין לבין העדפת שפה תכנותית )משתנים שונים(.
+\begin_inset Newline newline
+\end_inset
+
+
+\bar under
+
+\begin_inset Newline newline
+\end_inset
+
+סעיף
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+-3
+\numeric off
+\bar default
+ 
+\begin_inset Newline newline
+\end_inset
+
+נבדוק את השערת המחקר שלנו באמצעות מבחן סטטיסטי מתאים, תוך פירוט שלבי בדיקת
+ השערות.
+\numeric on
+
+\begin_inset Newline newline
+\end_inset
+
+
+\numeric off
+
+\begin_inset Formula $H_{0}$
+\end_inset
+
+: אין הבדל בין נשים לגברים בבחירת שפת תכנות מועדפתת על כן 
+\begin_inset Formula $\mu_{x}-\mu_{y}=0$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $H_{1}$
+\end_inset
+
+: יש הבדל בין נשים לגברים בבחירת שפת תכנות מועדפת, 
+\begin_inset Formula $\mu_{x}-\mu_{y}\neq0$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+ראשית נחשב את הממוצעים של הדגימות שלנו 
+\begin_inset Formula $x=male,\,\,y=female$
+\end_inset
+
+
+\begin_inset Formula 
+\[
+N_{x}=35,\,\,N_{y}=35
+\]
+
+\end_inset
+
+
+\begin_inset Formula 
+\[
+\bar{x}=5.371,\,\,\,\,\bar{y}=6.457
+\]
+
+\end_inset
+
+
+\begin_inset Formula 
+\[
+\hat{S}_{x}=1.832,\,\,\,\hat{S}_{y}=1.01
+\]
+
+\end_inset
+
+
+\begin_inset Formula 
+\[
+\hat{S}_{pooled}^{2}=2.189,\,\,\,\,\hat{S}_{pooled}=1.4795
+\]
+
+\end_inset
+
+
+\begin_inset Formula 
+\[
+t\left(68\right)=3.0697
+\]
+
+\end_inset
+
+בהתבוננות בטבלת 
+\begin_inset Formula $t$
+\end_inset
+
+, קיבלנו כי ההסתברות לתוצאה שקיבלנו או קיצונית ממנה בהינתן 
+\begin_inset Formula $H_{0}$
+\end_inset
+
+ היא: 
+\begin_inset Formula $0.001538535<\frac{\alpha}{2}=0.025$
+\end_inset
+
+ ולכן אנו יכולים לדחות את השערת האפס ולומר כי אכן יש הבדלים בין נשים לגברים
+ בבחירת שפת תכנות מועדפת על פי המדגם שלנו.
+\begin_inset Newline newline
+\end_inset
+
+
+\bar under
+
+\begin_inset Newline newline
+\end_inset
+
+סעיף 
+\numeric on
+-4
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\numeric off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+
+\begin_inset Newline newline
+\end_inset
+
+
+\numeric off
+אמדו את הפרמטרים והציגו את רווח בר הסמך.
+ 
+\begin_inset Newline newline
+\end_inset
+
+רווח הבר סמך שקיבלנו הוא:
+\begin_inset Formula 
+\[
+\mathbb{\mathbb{P}}\left(\left(\bar{y}-\bar{x}\right)-t_{N_{x}+N_{y}-2}^{1-\frac{\alpha}{2}}\cdot\hat{S}_{pooled}\cdot\sqrt{\frac{1}{N_{x}}+\frac{1}{N_{y}}}\leq\mu_{y}-\mu_{x}\leq\left(\bar{y}-\bar{x}\right)+t_{N_{x}+N_{y}-2}^{1-\frac{\alpha}{2}}\cdot\hat{S}_{pooled}\cdot\sqrt{\frac{1}{N_{x}}+\frac{1}{N_{y}}}\right)=1-\alpha
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula 
+\[
+\mathbb{\mathbb{P}}\left(1.085714-0.7057\leq\mu_{y}-\mu_{x}\leq1.085714+0.7057\right)=0.95
+\]
+
+\end_inset
+
+
+\begin_inset Formula 
+\[
+\mathbb{\mathbb{P}}\left(0.3799554\leq\mu_{y}-\mu_{x}\leq1.791473\right)=0.95
+\]
+
+\end_inset
+
+ואכן לפי הרווח הבר סמך ההפרש בין התוחלות הוא לפחות 
+\begin_inset Formula $0.3799554$
+\end_inset
+
+ בסיכוי של 
+\begin_inset Formula $95$
+\end_inset
+
+ אחוז.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\bar under
+סעיף 
+\numeric on
+-5
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\numeric off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+
+\begin_inset Newline newline
+\end_inset
+
+
+\numeric off
+בדקו את תשובתכם באמצעות R.
+ הגישו את הפלט
+\begin_inset Newline newline
+\end_inset
+
+
+\bar under
+
+\begin_inset Graphics
+	filename pasted1.png
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+סעיף 
+\numeric on
+-6
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\numeric off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+
+\begin_inset Newline newline
+\end_inset
+
+
+\numeric off
+הציגו את הנתון/ים שנראה/ים לכם הכי רלוונטי/ים בגרף לבחירתכם:
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Graphics
+	filename pasted2.png
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\bar under
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Graphics
+	filename pasted3.png
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Graphics
+	filename pasted4.png
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+סעיף 
+\numeric on
+-7
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\numeric off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+
+\begin_inset Newline newline
+\end_inset
+
+
+\numeric off
+דונו בקצרה בהנחות המבחן הסטטיסטי שערכתם.
+ האם לדעתכם ניתן להניח הנחות אלה?
+\begin_inset Newline newline
+\end_inset
+
+הנחנו כי: 
+\end_layout
+
+\begin_layout Standard
+
+\numeric on
+1
+\numeric off
+.
+ הדגימות מקריות ובלתי תלויות
+\end_layout
+
+\begin_layout Standard
+
+\numeric on
+2
+\numeric off
+.
+ התפלגות נורמלית של אוכלוסיות המקור
+\end_layout
+
+\begin_layout Standard
+
+\numeric on
+3
+\numeric off
+.
+ שונות אינה ידועה
+\end_layout
+
+\begin_layout Standard
+
+\numeric on
+4
+\numeric off
+.
+ שיוויון שונויות בין האוכלוסיות
+\begin_inset Newline newline
+\end_inset
+
+נשמע כי ההנחות שהנחנו סבירות כיוון שמדובר בהתפלגויות של בחירת שפה מועדפת,
+ כך שנצפה לשפות פופלריות יותר ופופולריות פחות כך שהבחירה בהן תתפלג גאוסיאנית.
+ בנוסף הנחת שיוויון שונויות היא יחסית סבירה כיוון שדגמנו בצורה רנדומלית
+ מתוך האוכלוסיה הכללית של המתכנתים כך שנראה שהשונות של הנשים מול הגברים
+ דומה.
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection*
+שאלה
+\family roman
+\series bold
+\shape up
+\size large
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+2
+\numeric off
+:
+\end_layout
+
+\begin_layout Standard
+-אלה-
+\end_layout
+
+\begin_layout Subsection*
+שאלה
+\family roman
+\series bold
+\shape up
+\size large
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+3
+\numeric off
+:
+\end_layout
+
+\begin_layout Standard
+המאמר שמצאנו:
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+
+\begin_inset Formula 
+\[
+\boldsymbol{"Daytime\,Alertness\,in\,Patients\,with\,Chronic\,Insomnia}
+\]
+
+\end_inset
+
+
+\series default
+
+\begin_inset Formula 
+\[
+\boldsymbol{Compared\,with\,Asymptomatic\,Control\,Subjects"}
+\]
+
+\end_inset
+
+
+\begin_inset Formula 
+\[
+EdwardStepanski,\,FrankZorick,\,TimothyRoehrs,\,DavidYoung,\,and\,ThomasRoth
+\]
+
+\end_inset
+
+שאלת המחקר שהמבחן הסטטיסטי בודק: האם יש הבדלים בערנות בשעות היום בחולים
+ עם נדודי שינה כרוניים בהשוואה לנבדקי בקרה נטולי סימפטומים.
+\begin_inset Newline newline
+\end_inset
+
+
+\bar under
+משתנה בלתי תלוי
+\bar default
+- נדודי שינה
+\begin_inset Newline newline
+\end_inset
+
+
+\bar under
+משתנה תלוי
+\bar default
+- ערנות בשעות היום
+\begin_inset Newline newline
+\end_inset
+
+
+\bar under
+משתנה בלתי תלוי אופרציונלי
+\bar default
+- מטופלים המאובחנים עם נדודי שינה כרוניים ונבדקים נטולי סימפטומים )כקבוצת
+ ביקורת(
+\begin_inset Newline newline
+\end_inset
+
+
+\bar under
+משתנה תלוי אופרציונלי
+\bar default
+- בדיקת 
+\begin_inset Formula $MSLT\,(multiple\,sleep\,latency\,test)$
+\end_inset
+
+ וספירת זמני שינה 
+\begin_inset Formula $TST\,(total\,sleep\,time)$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\bar under
+סוג המערך
+\bar default
+- מתאמי
+\begin_inset Newline newline
+\end_inset
+
+
+\bar under
+מבחן סטטיסטי
+\bar default
+- 
+\begin_inset Formula $t-test$
+\end_inset
+
+ דו זנבי הבודק את ההבדלים בין הממוצעים של תוצאות שתי הקבוצות )מהסוג האחרון
+ שלמדנו שבודק את ההפרש בין הממוצעים(
+\begin_inset Newline newline
+\end_inset
+
+הם קבעו 
+\begin_inset Formula $p-value<0.025$
+\end_inset
+
+ להיות הסף לערך הקריטי שלהם, כלומר מבחן דו זנבי על 
+\begin_inset Formula $\alpha=0.05$
+\end_inset
+
+ )כמו שאנחנו עושים בדרך כלל(
+\begin_inset Newline newline
+\end_inset
+
+המשתנים המקריים שלהם היו: 
+\begin_inset Formula $x=DIMS$
+\end_inset
+
+ 
+\begin_inset Formula $y=normal$
+\end_inset
+
+ והשערת האפס 
+\begin_inset Formula $H_{0}$
+\end_inset
+
+ הייתה שאין הבדלים בין הקבוצות 
+\begin_inset Formula $\mu_{x}-\mu_{y}=0$
+\end_inset
+
+.
+ הם בדקו שיוויון שונויות לפני ביצוע המבחן.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $N_{x}=70$
+\end_inset
+
+ כאשר 
+\begin_inset Formula $37$
+\end_inset
+
+ היו גברים ו- 
+\begin_inset Formula $33$
+\end_inset
+
+ היו נשים.
+ 
+\begin_inset Formula $N_{y}=45$
+\end_inset
+
+ כאשר 
+\begin_inset Formula $31$
+\end_inset
+
+ היו גברים ו 
+\begin_inset Formula $14$
+\end_inset
+
+ היו נשים.
+\begin_inset Newline newline
+\end_inset
+
+להלן טבלאות של הנתונים שהחוקרים השתמשו בהם: 
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Graphics
+	filename pasted5.png
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Graphics
+	filename pasted6.png
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\bar under
+ממצאים
+\bar default
+:
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Graphics
+	filename pasted7.png
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+לדעתנו המסקנה שהסיקו החוקרים אכן תקפה.
+ זאת כיוון שהם בדקו כי האוכלוסיות מקיימות את התנאים לשימוש במבחן 
+\begin_inset Formula $t$
+\end_inset
+
+, המדד שלהם היה תקין והם היו נאמנים לתוצאות שהם קיבלו במבחן בהסקת המסקנות.
+\begin_inset Newline newline
+\end_inset
+
+ניתן לצפות במאמר בכתובת הזאת: 
+\bar under
+https://academic.oup.com/sleep/article/11/1/54/2742634
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document

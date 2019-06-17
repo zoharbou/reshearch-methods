@@ -1,0 +1,1103 @@
+#LyX 2.2 created this file. For more info see http://www.lyx.org/
+\lyxformat 508
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language hebrew
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 2cm
+\topmargin 2cm
+\rightmargin 2cm
+\bottommargin 3cm
+\headheight 2cm
+\headsep 2cm
+\footskip 2cm
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+שיטות מחקר- תרגיל
+\family roman
+\series medium
+\shape up
+\size largest
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+7
+\end_layout
+
+\begin_layout Author
+מגישות זוהר בוחניק
+\family roman
+\series medium
+\shape up
+\size large
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+311142293
+\family roman
+\series medium
+\shape up
+\size large
+\emph off
+\numeric off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+אלה דובדבן
+\family roman
+\series medium
+\shape up
+\size large
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+305564866
+\end_layout
+
+\begin_layout Subsection*
+שאלה
+\family roman
+\series bold
+\shape up
+\size large
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+1
+\numeric off
+:
+\end_layout
+
+\begin_layout Standard
+ככל שהשונות הכללית בין-נבדקים רבה יותר נעדיף להשתמש במערך 
+\series bold
+תוך נבדקי
+\series default
+.
+ זאת מכיוון שבניגוד למערך תוך-נבדקי, במערך בין-נבדקי שונות כללית רבה בין
+ נבדקים 
+\series bold
+תגדיל
+\series default
+ את הסיכוי לטעות מסוג 
+\series bold
+שני
+\series default
+.
+ 
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+כאשר אנו מבצעים מבחן תוך נבדקי אנחנו בעצם יודעים להסביר מקור נוסף לשונות
+ – אנחנו יודעים שהוא מגיע ממקור של נבדקים.
+ על ידי כך המודל שלנו נהיה טוב יותר ובמידה והשערת האפס לא נכונה, במערך תוך
+ נבדקי תחת הנתונים של השונות בין הנבדקים שבולטת, יש סיכוי גדול יותר שנצליח
+ לדחות את השערת האפס.
+ כלומר שימוש במערך בין נבדקי במצב של שונות כללית רבה בין נבדקים מגדיל את
+ הסיכוי לכך שלא נדחה את השערת האפס למרות שהיא לא נכונה, שזה בדיוק טעות מסוג
+ שני.
+\end_layout
+
+\begin_layout Subsection*
+שאלה
+\family roman
+\series bold
+\shape up
+\size large
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+2
+\numeric off
+:
+\end_layout
+
+\begin_layout Subsubsection*
+סעיף א'
+\end_layout
+
+\begin_layout Standard
+העלנו את ה-
+\begin_inset Formula $data$
+\end_inset
+
+ ל-
+\begin_inset Formula $R$
+\end_inset
+
+ בעזרת הכלים שלמדנו בתרגול.
+ ניתן לראות זאת בקובץ 
+\begin_inset Formula $R$
+\end_inset
+
+ המצורף
+\end_layout
+
+\begin_layout Subsubsection*
+סעיף ב'
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename pasted2.png
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+נסכם את התוצאות שהתקבלו: 
+\end_layout
+
+\begin_layout Itemize
+ערך F - 
+\begin_inset Formula $11.71$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+דרגות חופש-
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+2
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\numeric off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+ו-
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+14
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\numeric off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+)כלומר 
+\begin_inset Formula $F_{\left(2,14\right)}$
+\end_inset
+
+(
+\end_layout
+
+\begin_layout Itemize
+ערך p - 
+\begin_inset Formula $0.00102$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+מובהקות- כן, כלומר דחינו את השערת האפס )וגם ערך ה- 
+\begin_inset Formula $p$
+\end_inset
+
+ קטן בהרבה מ 
+\begin_inset Formula $0.05$
+\end_inset
+
+(
+\end_layout
+
+\begin_layout Standard
+מה שניתן להסיק מהניתוח הוא שערך ה 
+\begin_inset Formula $p$
+\end_inset
+
+ קטן מאוד, ובפרט קטן מ 
+\begin_inset Formula $0.05$
+\end_inset
+
+ ולכן ברמת מובהקות של 
+\begin_inset Formula $95$
+\end_inset
+
+ אחוז ניתן לדחות את השערת האפס ולהסיק כי סוג ההבעה של פרצוף אכן משפיע על
+ מהירות העיבוד כמו שהחוקרת שיערה.
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+סעיף ג'
+\end_layout
+
+\begin_layout Standard
+גרף המתאר את הנתונים:
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Graphics
+	filename pasted3.png
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+סעיף ד'
+\end_layout
+
+\begin_layout Standard
+ביצענו את המבחן כמבחן 
+\begin_inset Formula $anova\,1\,way$
+\end_inset
+
+ כך שמתייחסים ל
+\begin_inset Formula $24$
+\end_inset
+
+ נבדקים שונים.
+\begin_inset Newline newline
+\end_inset
+
+ואלו התוצאות:
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Graphics
+	filename pasted4.png
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+ההבדלים מהתוצאות שקיבלנו בסעיף ב' :
+\end_layout
+
+\begin_layout Itemize
+ערכי הF- קטן משמעותית ל- 
+\begin_inset Formula $1.949$
+\end_inset
+
+ כך שלא ניתן לדחות את השערת האפס.
+ כלומר ניתן לראות ממש בבירור את ההשפעה של השונות בין הנבדקים על התוצאות
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Formula $p-value$
+\end_inset
+
+ בעת שווה ל 
+\begin_inset Formula $0.167$
+\end_inset
+
+ אשר גדול מ 
+\begin_inset Formula $0.05$
+\end_inset
+
+ וכמובן גדול בהרבה מהערך 
+\begin_inset Formula $p$
+\end_inset
+
+ במבחן הקודם.
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Formula $SS$
+\end_inset
+
+ים- במבחן תוך נבדקי היה לנו 
+\begin_inset Formula $SST=SSB+SSs+SSI$
+\end_inset
+
+ כלומר ידענו להסביר יותר מהשונות בעזרת השונות בין הנבדקים עצמם.
+ כעת כשעברנו למבחן אנובה חד גורמי בין נבדקי עברנו ל- 
+\begin_inset Formula $SST=SSB+SSW$
+\end_inset
+
+ כלומר החלק של השונות הבלתי מוסברת נהיה גדול יותר.
+ כצפוי ה- 
+\begin_inset Formula $SSB$
+\end_inset
+
+ נשאר אותו דבר, אמנם ה- 
+\begin_inset Formula $SSs$
+\end_inset
+
+ ו- 
+\begin_inset Formula $SSI$
+\end_inset
+
+ התאחדו ל- 
+\begin_inset Formula $SSW$
+\end_inset
+
+ לכן בעצם הסכום של 
+\begin_inset Formula $SSI+SSs$
+\end_inset
+
+ בדיוק שווה ל- 
+\begin_inset Formula $SSW$
+\end_inset
+
+ 
+\begin_inset Formula $649583+81042=730625$
+\end_inset
+
+ .
+\end_layout
+
+\begin_layout Itemize
+מובהקות- אין מובהקות תחת המבחן הזה, לא ניתן לדחות את השערת האפס.
+\end_layout
+
+\begin_layout Itemize
+דרגות החופש- עלו ל 
+\begin_inset Formula $\left(2,21\right)$
+\end_inset
+
+ כי "הגדלנו" את מספר הנבדקים.
+\end_layout
+
+\begin_layout Standard
+על מקור ההבדלים פירטנו כאשר הסברנו על השינוי ב 
+\begin_inset Formula $SS$
+\end_inset
+
+ים.
+\end_layout
+
+\begin_layout Subsection*
+שאלה
+\family roman
+\series bold
+\shape up
+\size large
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+3
+\numeric off
+:
+\end_layout
+
+\begin_layout Standard
+בניתוח שונות תוך-נבדקי ייתכן מצב בו 
+\begin_inset Formula $SST=SSB+SSs$
+\end_inset
+
+? תשובה: 
+\series bold
+נכון.
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $SST=SSB+SSs+SSI$
+\end_inset
+
+ ולכן מצב בו 
+\begin_inset Formula $SST=SSB+SSs$
+\end_inset
+
+ שקול למצב בו 
+\begin_inset Formula $SSI=0$
+\end_inset
+
+.
+ נשים לב כי כאשר יש לנו רק עמודה אחת, כלומר אנו בודקים רק תנאי אחד נקבל:
+\begin_inset Formula 
+\[
+SSI=\sum_{i=1}^{n}\sum_{j=1}^{K}\left(y_{ij}-\overline{y}_{i}-\overline{y}_{j}+\overline{y}\right)^{2}
+\]
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+מכיוון ש- 
+\begin_inset Formula $K=1$
+\end_inset
+
+ נקבל כי 
+\begin_inset Formula $SSI=\sum_{i=1}^{n}\left(y_{i1}-\overline{y}_{i}-\overline{y}_{1}+\overline{y}\right)^{2}$
+\end_inset
+
+ אמנם לכל 
+\begin_inset Formula $i\in\left[n\right]$
+\end_inset
+
+ מתקיים 
+\begin_inset Formula $y_{i1}=\overline{y}_{i}$
+\end_inset
+
+ , בגלל שיש רק איבר אחד בשורה אז ממוצע השורה 
+\begin_inset Formula $\overline{y}_{i}$
+\end_inset
+
+ שווה לערך של האיבר בשורה 
+\begin_inset Formula $y_{i1}$
+\end_inset
+
+.
+ בנוסף מתקיים 
+\begin_inset Formula $\overline{y}_{1}=\overline{y}$
+\end_inset
+
+ כיוון שהממוצע הכללי שווה לממוצע העמודה הראשונה, שוב כי יש רק עמודה אחת.
+ לבסוף נקבל כי 
+\begin_inset Formula $SSI=\sum_{i=1}^{n}\left(y_{i1}-\overline{y}_{i}-\overline{y}_{1}+\overline{y}\right)^{2}=\sum_{i=1}^{n}\left(0+0\right)^{2}=0$
+\end_inset
+
+ כנדרש.
+\end_layout
+
+\begin_layout Subsection*
+שאלה
+\family roman
+\series bold
+\shape up
+\size large
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+4
+\numeric off
+:
+\end_layout
+
+\begin_layout Standard
+תשובה- 
+\series bold
+ב'
+\series default
+
+\begin_inset Newline newline
+\end_inset
+
+יש לנו כאן אפקט תקרה- הוא פוגע במהימנות )לא מראה שונות אמיתית בין נבדקים(,
+ ובתוקף )סביר שיש הבדלים במשתנה התיאורטי, אבל אנחנו לא תופסים אותם כי המבחן
+ קל
+\backslash
+קשה מדי(.
+ 
+\end_layout
+
+\begin_layout Subsection*
+שאלה
+\family roman
+\series bold
+\shape up
+\size large
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+5
+\numeric off
+:
+\end_layout
+
+\begin_layout Standard
+תשובה 
+\series bold
+ג'
+\series default
+.
+\begin_inset Newline newline
+\end_inset
+
+כמוזכר בשאלה, מערך 
+\bar under
+ניסויי
+\bar default
+ מאפשר לנו שליטה ונטרול של משתנים חיצוניים רבים - ובכך מאפשר לוודא שהתוצאות
+ שהתקבלו במשתנה התלוי נובעים מהמשתנה הבלתי תלוי ולא מגורמים חיצוניים - ולכן
+ הוא 
+\bar under
+בעל תוקף פנימי גבוה.
+\begin_inset Newline newline
+\end_inset
+
+
+\bar default
+לעומת זאת, במבחן 
+\bar under
+מתאמי
+\bar default
+ - לא מבצעים מניפולציות על המשתנה הבלתי תלוי, שכן רוצים למצוא קשר 
+\backslash
+ מתאם בין שני הגורמים.
+ חוסר התערבות זה משאיר את תוצאות המבחן קרובות יותר למציאות הכללית, ולכן
+ הינו 
+\bar under
+בעל תוקף חיצוני גבוה
+\bar default
+.
+ 
+\end_layout
+
+\begin_layout Subsection*
+שאלה
+\family roman
+\series bold
+\shape up
+\size large
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+6
+\numeric off
+: 
+\end_layout
+
+\begin_layout Standard
+נבדוק את ההשפעה של הפעולות הבאות על גודל האפקט ועל עוצמת המבחן.
+ 
+\end_layout
+
+\begin_layout Standard
+גודל האפקט – מידת ההשפעה של המניפולציה.
+ מיוצגת ע"י 
+\begin_inset Formula $\delta=\frac{\mu_{x}-\mu_{y}}{\sigma}$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+עצמת המבחן – מבוטאת ע"י 
+\begin_inset Formula $1-\beta$
+\end_inset
+
+ כאשר 
+\begin_inset Formula $\beta$
+\end_inset
+
+ הינה הטעות מסוג שני )המקרה בו לא דחינו את השערת האפס, למרות שהשערת המחקר
+ נכונה(.
+ 
+\end_layout
+
+\begin_layout Enumerate
+הגדלת המניפולציה הניסויית כך שהממוצע בקבוצה הניסויית יתרחק מהממוצע של קבוצת
+ הביקורת.
+ 
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+גודל האפקט 
+\series bold
+יגדל-
+\series default
+ אנו מגדילים את 
+\begin_inset Formula $\mu_{x}-\mu_{y}$
+\end_inset
+
+ כלומר את ההפרש בין הממוצע של הקבוצה הניסויית ושל קבוצת הביקורת ועל ידי
+ כך מגדילים את האפקט.
+ 
+\end_layout
+
+\begin_layout Enumerate
+עוצמת המבחן 
+\series bold
+תגדל-
+\series default
+ הרחקת הממוצעים זה מזה בעצם מקטינה את השטח החופף של ההתפלגויות עבור ההשערות
+ השונות, ועל ידי כך מביאה להורדת ההסתברות לקבל את הממוצע של הקבוצה הניסויית
+ תחת הנחה 
+\begin_inset Formula $H_{0}$
+\end_inset
+
+, כלומר להעלאת ההסתברות לדחיית 
+\begin_inset Formula $H_{0}$
+\end_inset
+
+.
+ 
+\begin_inset Newline newline
+\end_inset
+
+היות והטעות מסוג שני תלויה בשטח החפיפה בין ההתפלגויות - הקטנת שטח החפיפה
+ מקטינה טעות מסוג שני, מה שמביא להגדלת עוצמת המבחן.
+ 
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+הגדלת המדגם.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+גודל האפקט 
+\series bold
+יגדל-
+\series default
+ כפי שהראינו בכיתה, הגדלת המדגם מביאה להצרה של עקומת הגאוס של ההתפלגות,
+ כלומר להקטנת סטיית התקן.
+ מתוך הנחה שמידת ההשפעה לא משתנה )הפער בין הממוצעים( - נטען כי גודל האפקט
+ גדל עם הגדלת המדגם.
+ 
+\end_layout
+
+\begin_layout Enumerate
+עוצמת המבחן 
+\series bold
+תגדל-
+\series default
+ נשים לב שהטעות מסוג שני מוגדרת כהסתברות לאי דחייה של השערת האפס כאשר השערת
+ המחקר )
+\begin_inset Formula $H_{1}$
+\end_inset
+
+( היא הנכונה
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+.
+ ככל שנגדיל את המדגם כמו שציינו קודם, שטח החפיפה בין ההתפלגויות יקטן ובעקבות
+ כך כמו שלמדנו נקטין את הטעות מסוג ראשון ושני, לכן בפרט 
+\begin_inset Formula $\beta$
+\end_inset
+
+ יקטן ועוצמת המבחן תגדל.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+הגדלת אלפא.
+ 
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+גודל האפקט 
+\series bold
+לא ישתנה
+\series default
+- שכן אין הוא תלוי ב-
+\begin_inset Formula $\alpha$
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Enumerate
+עוצמת המבחן 
+\series bold
+תגדל-
+\series default
+ ככל ש-
+\begin_inset Formula $\alpha$
+\end_inset
+
+ גדולה יותר, יהיה יותר "קל" לדחות את השערת האפס, בעקבות כך בשל ה-
+\begin_inset Formula $trade\,off$
+\end_inset
+
+ בין 
+\begin_inset Formula $\alpha$
+\end_inset
+
+ ו- 
+\begin_inset Formula $\beta$
+\end_inset
+
+ , הטעות מסוג
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+2
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\numeric off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+תקטן, מה שיגדיל את עוצמת המבחן.
+\end_layout
+
+\end_deeper
+\end_body
+\end_document

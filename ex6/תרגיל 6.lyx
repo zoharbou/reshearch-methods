@@ -1,0 +1,3087 @@
+#LyX 2.2 created this file. For more info see http://www.lyx.org/
+\lyxformat 508
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language hebrew
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 2cm
+\topmargin 2cm
+\rightmargin 2cm
+\bottommargin 3cm
+\headheight 2cm
+\headsep 2cm
+\footskip 2cm
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+שיטות מחקר- תרגיל
+\family roman
+\series medium
+\shape up
+\size largest
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+6
+\end_layout
+
+\begin_layout Author
+מגישות- זוהר בוחניק
+\family roman
+\series medium
+\shape up
+\size large
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+311142293
+\family roman
+\series medium
+\shape up
+\size large
+\emph off
+\numeric off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+אלה דובדבן
+\family roman
+\series medium
+\shape up
+\size large
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+305564866
+\end_layout
+
+\begin_layout Subsection*
+שאלה
+\family roman
+\series bold
+\shape up
+\size large
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+1
+\numeric off
+:
+\end_layout
+
+\begin_layout Standard
+נגדיר את תנאי הניסוי: 
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $n=24$
+\end_inset
+
+ מספר הנבדקים, אשר חולקו לקבוצות הבאות בצורה רנדומלית:
+\end_layout
+
+\begin_layout Enumerate
+ריצה
+\end_layout
+
+\begin_layout Enumerate
+נסיעה באופניים
+\end_layout
+
+\begin_layout Enumerate
+כדורגל
+\end_layout
+
+\begin_layout Enumerate
+כדורסל
+\end_layout
+
+\begin_layout Standard
+
+\bar under
+המשתנה הבלתי תלוי
+\bar default
+ - ענף הספורט 
+\begin_inset Newline newline
+\end_inset
+
+
+\bar under
+המשתנה התלוי
+\bar default
+ - רמת חומצת החלב בדם )המייצג את רמת הכושר הגופני הדרוש לפעילות(.
+\end_layout
+
+\begin_layout Subsubsection*
+א(
+\end_layout
+
+\begin_layout Standard
+נבנה סט של קונטרסטים מתוכננים התואמים את ההשערות הבאות של החוקרת:
+\end_layout
+
+\begin_layout Enumerate
+השערת החוקרת: הכושר הגופני הדרוש למשחקי כדור נמוך ממקצועות אחרים
+\begin_inset Newline newline
+\end_inset
+
+נבחר את הקונטרסטים הבאים: 
+\begin_inset Formula 
+\[
+C_{1}=C_{2}=1,\quad C_{3}=C_{4}=-1
+\]
+
+\end_inset
+
+כעת נגדיר את 
+\begin_inset Formula $\psi$
+\end_inset
+
+ להיות: 
+\begin_inset Formula 
+\[
+\psi=\overline{x}_{1}+\overline{x}_{2}-\overline{x}_{3}-\overline{x}_{4}
+\]
+
+\end_inset
+
+ונקבל את ההשערות הרצויות: 
+\begin_inset Formula 
+\[
+H_{0}:\;\psi\geq0
+\]
+
+\end_inset
+
+
+\begin_inset Formula 
+\[
+H_{1}:\;\psi<0
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+השערת החוקרת: הכושר הגופני הדרוש לכדורגל גבוה יותר מזה הנדרש לכדורסל
+\begin_inset Newline newline
+\end_inset
+
+נבחר את הקונטרסטים הבאים: 
+\begin_inset Formula 
+\[
+C_{1}=C_{2}=0,\;C_{3}=1,\;C_{4}=-1
+\]
+
+\end_inset
+
+כעת נגדיר את 
+\begin_inset Formula $\psi$
+\end_inset
+
+ להיות: 
+\begin_inset Formula 
+\[
+\psi=\overline{x}_{3}-\overline{x}_{4}
+\]
+
+\end_inset
+
+ונקבל את ההשערות הרצויות: 
+\begin_inset Formula 
+\[
+H_{0}:\;\psi\leq0
+\]
+
+\end_inset
+
+
+\begin_inset Formula 
+\[
+H_{1}:\;\psi>0
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+ב(
+\end_layout
+
+\begin_layout Standard
+נבנה קונטרסט אורתוגונלי- 
+\begin_inset Formula 
+\[
+C_{1}=1,\;C_{2}=-1,\;C_{3}=0,\;C_{4}=0
+\]
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+כלומר:
+\begin_inset Formula 
+\[
+\psi=\overline{x}_{1}-\overline{x}_{2}
+\]
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+ההשערה על פי קונטרסט זה היא שהכושר הגופני הדרוש לריצה גבוה יותר מזה הנדרש
+ לנסיעה באופניים.
+\begin_inset Formula 
+\[
+H_{0}:\;\psi\leq0
+\]
+
+\end_inset
+
+
+\begin_inset Formula 
+\[
+H_{1}:\;\psi>0
+\]
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+הוא בלתי תלוי באחרים כיוון שבכל השערה אנו בודקים את הקשרים בין קבוצות שונות.
+ בהשערה הראשונה הסתכלנו על משחקי כדור לעומת משחקים אחרים, בהשערה השניה הסתכלנו
+ בתוך קבוצת משחקי הכדור על רמת הפעילות הגופנית שנדרשת בכל אחד בהשוואה בניהם,
+ ובהשערה הזאת אנו מסתכלים על קבוצת המשחקים האחרים ועל מי דורש יותר פעילות
+ גופנית- כלומר על הקשר הפנימי בתוך הקבוצה של משחקים אחרים.
+ ברמה המתמטית ניתן לראות כי אכן וקטורי הקונטרסטים הם אורתוגונלים אחד לשני
+ )פירוט בסעיף ג'(.
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+ג(
+\end_layout
+
+\begin_layout Standard
+נראה את אי התלות בין שלושת הקונטרסטים שהגדרנו ע"י כך שנראה כי המכפלה הסקלרית
+ של כל זוג קונטרסטים היא אפס:
+\begin_inset Formula 
+\[
+\left\langle \begin{bmatrix}1\\
+1\\
+-1\\
+-1
+\end{bmatrix},\begin{bmatrix}1\\
+-1\\
+0\\
+0
+\end{bmatrix}\right\rangle =1-1+0+0=0
+\]
+
+\end_inset
+
+
+\begin_inset Formula 
+\[
+\left\langle \begin{bmatrix}0\\
+0\\
+1\\
+-1
+\end{bmatrix},\begin{bmatrix}1\\
+-1\\
+0\\
+0
+\end{bmatrix}\right\rangle =0+0+0+0=0
+\]
+
+\end_inset
+
+
+\begin_inset Formula 
+\[
+\left\langle \begin{bmatrix}1\\
+1\\
+-1\\
+-1
+\end{bmatrix},\begin{bmatrix}0\\
+0\\
+1\\
+-1
+\end{bmatrix}\right\rangle =0+0-1+1=0
+\]
+
+\end_inset
+
+כנדרש.
+ 
+\end_layout
+
+\begin_layout Subsubsection*
+ד(
+\end_layout
+
+\begin_layout Standard
+מצורף קובץ 
+\begin_inset Formula $R$
+\end_inset
+
+.
+ תוצאות:
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Graphics
+	filename pasted1.png
+	lyxscale 70
+	scale 70
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection*
+שאלה
+\family roman
+\series bold
+\shape up
+\size large
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+2
+\numeric off
+:
+\end_layout
+
+\begin_layout Standard
+
+\bar under
+מערך המחקר שבחרנו הוא
+\bar default
+: השפעה של מין והשכלה על-תיכונית על מדד 
+\begin_inset Formula $IQ$
+\end_inset
+
+.
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+מהי שאלת המחקר התיאורטית?
+\series default
+ 
+\end_layout
+
+\begin_layout Standard
+האם יש קשר בין מין והשכלה על-תיכונית על מדד ה-
+\begin_inset Formula $IQ$
+\end_inset
+
+ של אדם.
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+מהי האופרציונליזציה של המשתנים השונים?
+\series default
+ 
+\end_layout
+
+\begin_layout Standard
+נבצע מבחני 
+\begin_inset Formula $IQ$
+\end_inset
+
+ ונאסוף את ממוצעי הציונים ביחד עם נתוני המין וההשכלה הגבוהה של הנבדקים.
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+מהו סוג מערך המחקר המוצע )מתאמי/ניסויי(?
+\end_layout
+
+\begin_layout Standard
+מתאמי.
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+האם ניתן לבצע בו הקצאה מקרית?
+\end_layout
+
+\begin_layout Standard
+קיים ארטיפקט אפשרי - שכן אנו מודדים את ההשכלה הגבוהה, אשר יכולה להיות תוצר
+ נלווה של מצב סוציו-אקונומי )הקצאה לא מקרית(.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+ב.
+ יש אפקט עיקרי לשורות, ואין אפקט לעמודות ולאינטראקציה.
+ 
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Graphics
+	filename pasted2.png
+	lyxscale 60
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Graphics
+	filename pasted3.png
+	lyxscale 60
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+מה שניתן להסיק מהתוצאות זה שרמת ה-
+\begin_inset Formula $IQ$
+\end_inset
+
+ אצל אנשים שלמדו בהשכלה גבוהה, גבוהה יותר משל אנשים שלא למדו בהשכלה גבוהה,
+ וכי המין לא משפיע על רמת ה- 
+\begin_inset Formula $QI$
+\end_inset
+
+.
+ כמו כן לא קיימת אינטרקציה בין המשתנים הבלתי תלוים שבדקנו.
+\begin_inset Newline newline
+\end_inset
+
+ 
+\begin_inset Newline newline
+\end_inset
+
+ג.
+ יש אפקט לעמודות ולשורות, אין אפקט אינטראקציה.
+ 
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Graphics
+	filename pasted4.png
+	lyxscale 60
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Graphics
+	filename pasted5.png
+	lyxscale 60
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+מה שניתן להסיק מהתוצאות זה שגם המין וגם השכלה גבוהה הם גורמים המשפיעים על
+ רמת ה- 
+\begin_inset Formula $IQ$
+\end_inset
+
+.
+ זאת כאשר תוצאות הנשים היו גבוהות יותר משל הגברים, ואנשים שלמדו השכלה גבוהה
+ הפגינו רמת 
+\begin_inset Formula $IQ$
+\end_inset
+
+ גבוהה יותר.
+ לא נמצאה אינטרציה בין
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+2
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\numeric off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+הגורמים הבלתי תלוים האלו.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+ד.
+ יש אפקט אינטראקציה, אין אפקטים עיקריים.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Graphics
+	filename pasted6.png
+	lyxscale 60
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Graphics
+	filename pasted7.png
+	lyxscale 60
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+מה שניתן להסיק מהתוצאות זה שיש השפעה של מין והשכלה גבוהה על רמת ה- 
+\begin_inset Formula $IQ$
+\end_inset
+
+, אמנם לא קיים אפקט ברור עבור כל אחד מבין המשתנים בנפרד.
+ רק בשילוב בין שני המשתנים נקבל אפקט ברור על ה- 
+\begin_inset Formula $IQ$
+\end_inset
+
+ למשל אישה שלומדת באוניברסיטה תתאפיין ברמת 
+\begin_inset Formula $IQ$
+\end_inset
+
+ גבוהה יותר, לעומת זאת עבור גבר אם הוא דווקא לא למד באוניברסיטה הוא יתאפיין
+ ברמת 
+\begin_inset Formula $IQ$
+\end_inset
+
+ גבוהה יותר מאשר גבר שכן למד באוניברסיטה.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+ה.
+ יש אפקט אינטראקציה ואפקט שורות, אין אפקט עמודות.
+ 
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Graphics
+	filename pasted8.png
+	lyxscale 60
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Graphics
+	filename pasted9.png
+	lyxscale 60
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+מה שניתן להסיק מהתוצאות זה שלמשתנה הבלתי תלוי השכלה גבוהה יש השפעה על רמת
+ ה 
+\begin_inset Formula $IQ$
+\end_inset
+
+ , אמנם לא נמצא הבדל בין נשים לגברים ברמת ה-
+\begin_inset Formula $IQ$
+\end_inset
+
+ בממוצע.
+ על האינטרקציה בניהם ניתן ללמוד כי המין משפיע בצורה כלשהי כאשר הוא נמדד
+ יחד עם הפרמטר של השכלה גבוהה ונקבל אפקט על רמת ה- 
+\begin_inset Formula $IQ$
+\end_inset
+
+ בשילוב
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+2
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\numeric off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+המשתנים יחד.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+ו.
+ יש אפקט אינטראקציה, עמודות, ושורות.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Graphics
+	filename pasted10.png
+	lyxscale 60
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Graphics
+	filename pasted11.png
+	lyxscale 60
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+מה שניתן להסיק מהתוצאות זה כי לכל משתנה בנפרד יש השפעה על רמת ה- 
+\begin_inset Formula $IQ$
+\end_inset
+
+ וגם לשילוב שלהם ביחד יש השפעה אחרת על רמת ה- 
+\begin_inset Formula $IQ$
+\end_inset
+
+.
+ זאת ניתן לראות לפי זה שיש הבדלים בין הממוצעים הן של השורות והן של העמודות
+ ואת האינטראקציה ניתן לראות על ידי זה שיש למשל הבדל בין גבר שלמד בהשכלה
+ גבוהה לבין גבר שלא, אבל אצל אישה למשל אין הבדל ברמת ההשכלה אם היא למדה
+ בהשכלה הגבוהה או לא- כלומר לשילוב בניהם יש משמעות חדשה.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection*
+שאלה
+\family roman
+\series bold
+\shape up
+\size large
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+3
+\numeric off
+:
+\end_layout
+
+\begin_layout Standard
+ראשית - נמלא את טבלת הממוצעים:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Tabular
+<lyxtabular version="3" rows="4" columns="5">
+<features tabularvalignment="middle">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+כדורסל
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+אופניים
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ריצה
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $5.1$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $8$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $3.66$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $3.66$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+גילאים
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+20-30
+\numeric off
+ 
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $8.32$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $7.66$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $7.66$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $9.66$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+גילאים
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+30-40
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $6.716$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $7.83$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $5.66$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $6.66$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+סעיף א-
+\end_layout
+
+\begin_layout Standard
+\begin_inset Tabular
+<lyxtabular version="3" rows="5" columns="6">
+<features tabularvalignment="middle">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $df$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $SS$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $MS$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $F$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $F$
+\end_inset
+
+ קריטי
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+שורות
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\numeric on
+1
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $SSR=46.658$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $46.658$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $\boldsymbol{6.00489}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $4.747$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+טורים
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\numeric on
+2
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $SSC=14.1556$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $7.078$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $\boldsymbol{0.91081}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $3.885$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+אינטראקציה
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\numeric on
+2
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $SSInt=31.516$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $15.758$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $\boldsymbol{2.02805}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $3.885$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+טעות
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\numeric on
+12
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $SSE=\boldsymbol{93.334}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $\boldsymbol{7.77}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $\blacksquare$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $\blacksquare$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula 
+\[
+SSC=\sum_{k=1}^{C}n\cdot R\cdot\left(\overline{x}_{k}-\overline{x}\right)^{2}=3\cdot2\cdot\left(6.66-6.716\right)^{2}+3\cdot2\cdot\left(5.66-6.716\right)^{2}+3\cdot2\cdot\left(7.83-6.716\right)^{2}=14.155608
+\]
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula 
+\[
+SSE=\sum_{j=1}^{R}\sum_{k=1}^{C}\sum_{i=1}^{n}\left(x_{i,j,k}-\overline{x}_{j,k}\right)^{2}=\left(2-3.66\right)^{2}+\left(3-3.66\right)^{2}+\left(6-3.66\right)^{2}+\left(3-3.66\right)^{2}+\left(7-3.66\right)^{2}+\left(1-3.66\right)^{2}
+\]
+
+\end_inset
+
+
+\begin_inset Formula 
+\[
++\left(9-8\right)^{2}+\left(9-8\right)^{2}+\left(6-8\right)^{2}+\left(9-9.66\right)^{2}+\left(6-9.66\right)^{2}+\left(14-9.66\right)^{2}+\left(11-7.66\right)^{2}+\left(4-7.66\right)^{2}+\left(8-7.66\right)^{2}+
+\]
+
+\end_inset
+
+
+\begin_inset Formula 
+\[
++\left(7-7.66\right)^{2}+\left(9-7.66\right)^{2}+\left(7-7.66\right)^{2}=93.334
+\]
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula 
+\[
+SSR=\underset{j=1}{\overset{R}{\sum}}n\cdot C\cdot\left(\bar{x}_{j.}-\bar{x}\right)^{2}=\underset{j=1}{\overset{R}{\sum}}n\cdot C\cdot\left(\bar{x}_{j.}-\bar{x}\right)^{2}=3\cdot3\cdot\left[\left(5.1-6.716\right)^{2}+\left(8.32-6.716\right)^{2}\right]=46.65833
+\]
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula 
+\[
+SSint=\underset{j=1}{\overset{R}{\sum}}\underset{k=1}{\overset{C}{\sum}}n\cdot\left(\overline{x}_{j,k}-\overline{x}_{j.}-\overline{x}_{.k}+\bar{x}\right)^{2}=
+\]
+
+\end_inset
+
+
+\begin_inset Formula 
+\[
+3\cdot\left[\left(8-5.1-7.83+6.716\right)^{2}+\left(3.66-5.1-5.66+6.716\right)^{2}+\left(3.66-5.1-6.66+6.716\right)^{2}\right]+
+\]
+
+\end_inset
+
+
+\begin_inset Formula 
+\[
+3\cdot\left[\left(7.66-8.32-7.83+6.716\right)^{2}+\left(7.66-8.32-5.66+6.716\right)^{2}+\left(9.66-8.32-6.66+6.716\right)^{2}\right]
+\]
+
+\end_inset
+
+
+\begin_inset Formula 
+\[
+=15.758124+15.758124=31.516248
+\]
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+דרגות חופש: 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula 
+\[
+df_{R}=R-1=2-1=1
+\]
+
+\end_inset
+
+
+\begin_inset Formula 
+\[
+df_{C}=C-1=3-1=2
+\]
+
+\end_inset
+
+
+\begin_inset Formula 
+\[
+df_{int}=\left(R-1\right)\left(C-1\right)=2
+\]
+
+\end_inset
+
+
+\begin_inset Formula 
+\[
+df_{e}=N-R\cdot C=18-6=12
+\]
+
+\end_inset
+
+אומדים לשונות:
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula 
+\[
+MSR=\frac{SSR}{df_{R}}=\frac{46.658}{1}=46.658
+\]
+
+\end_inset
+
+
+\begin_inset Formula 
+\[
+MSC=\frac{SSC}{df_{C}}=\frac{14.1556}{2}=7.077
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Formula 
+\[
+MSint=\frac{SSint}{df_{int}}=\frac{31.516}{2}=15.758
+\]
+
+\end_inset
+
+
+\begin_inset Formula 
+\[
+MSE=\frac{SSE}{df_{e}}=\frac{93.334}{12}=7.77
+\]
+
+\end_inset
+
+ערכי 
+\begin_inset Formula $F$
+\end_inset
+
+:
+\begin_inset Formula 
+\[
+\frac{MSR}{MSE}=\frac{46.658}{7.77}=6.00489
+\]
+
+\end_inset
+
+
+\begin_inset Formula 
+\[
+\frac{MSC}{MSE}=\frac{7.077}{7.77}=0.91081
+\]
+
+\end_inset
+
+
+\begin_inset Formula 
+\[
+\frac{MSInt}{MSE}=\frac{15.758}{7.77}=2.02805
+\]
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+סעיף ב-
+\end_layout
+
+\begin_layout Standard
+נסכם במילים את תוצאות ניתוח השונות ומה ניתן להסיק
+\backslash
+לא-להסיק מבדיקת כל אחד מהאפקטים במערך:
+\begin_inset Newline newline
+\end_inset
+
+ניתן לראות כי יש אפקט 
+\series bold
+שורות
+\series default
+.
+ זאת כיוון שהצלחנו לדחות במקרה זה את השערת ה-
+\numeric on
+0
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\numeric off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+והערך 
+\begin_inset Formula $F$
+\end_inset
+
+ שהתקבל היה גדול מהערך הקריטי עבור 
+\begin_inset Formula $\alpha=0.05$
+\end_inset
+
+.
+ לא ניתן לדחות את השערת האפס עבור אפקט העמודות והאינטראקציה.
+ מה שכן ניתן לראות זה שגיל המתעמל/ת משפיע על מצב הרוח.
+\end_layout
+
+\begin_layout Subsection*
+שאלה
+\family roman
+\series bold
+\shape up
+\size large
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+4
+\numeric off
+:
+\end_layout
+
+\begin_layout Subsubsection*
+סעיף א'
+\end_layout
+
+\begin_layout Standard
+התוצאות שקיבלנו:
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Graphics
+	filename pasted13.png
+	lyxscale 60
+	scale 80
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Tabular
+<lyxtabular version="3" rows="4" columns="5">
+<features tabularvalignment="middle">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+האם האפקט שנמצא מובהק?
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $p-value$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+דרגות חופש
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ערכי 
+\begin_inset Formula $F$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+אפקט
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+כן
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $0.000231$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\numeric on
+1
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $15.572$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $supp$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+כן
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $2e-16$
+\end_inset
+
+ )מספר מאוד קרוב לאפס(
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\numeric on
+2
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $92$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $dose$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+כן
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\numeric on
+\begin_inset Formula $0.021860$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\numeric on
+2
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $4.107$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+אינטרקציה
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Formula $supp$
+\end_inset
+
+ מייצג את הדרך שבה נצרך הויטמין 
+\begin_inset Formula $C$
+\end_inset
+
+ כאשר 
+\begin_inset Formula $OJ$
+\end_inset
+
+ מייצג מיץ תפוזים ו-
+\begin_inset Formula $VC$
+\end_inset
+
+ מייצג צריכה דרך האוכל.
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Formula $dose$
+\end_inset
+
+ מייצג את המינון שבו קיבלנו את הויטמין 
+\begin_inset Formula $C$
+\end_inset
+
+- כאלו שקיבלו מידי יום מינון של 0.5 מיל' גרם של ויטמין C, כאלו שקיבלו מינון
+ של 1 מ"ג וכאלו שקיבלו מינון של 2 מ"ג
+\end_layout
+
+\begin_layout Standard
+
+\bar under
+מה ניתן או לא ניתן להסיק מהתוצאות?
+\bar default
+
+\begin_inset Newline newline
+\end_inset
+
+ניתן לדחות את השערת האפס בשני המשתנים, כלומר יש השפעה של הדרך שבה נצרך הויטמין
+ 
+\begin_inset Formula $C$
+\end_inset
+
+ על צמיחת השיניים של שרקנים וגם יש השפעה של המינון שבו נצרך ויטמין 
+\begin_inset Formula $C$
+\end_inset
+
+ לצמיחת השיניים של שרקנים.
+ בעבור האינטראקציה ניתן לדחות את השערת האפס ונובע כי הקשר בין המינון שבו
+ נצרך ויטמין 
+\begin_inset Formula $C$
+\end_inset
+
+ לצמיחת השיניים של שרקנים תלוי בדרך שבה הוא נצרך.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+גרף אינפורמטיבי של ההשפעה של המינון על הצמיחה של השן עבור
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+2
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\numeric off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+שיטות הצריכה:
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Graphics
+	filename pasted14.png
+	lyxscale 60
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+סעיף ב'
+\end_layout
+
+\begin_layout Standard
+חוקר ב' משתמש ב
+\begin_inset Formula $ANOVA$
+\end_inset
+
+ חד גורמי, זאת בשונה מחוקר א' שמשתמש במבחן 
+\begin_inset Formula $ANOVA$
+\end_inset
+
+ דו גורמי.
+ לכן במעברים בין המבחנים הדברים שיש לחשב משתנים, כלומר 
+\begin_inset Formula $SSR,SSC,SSE,SSInt$
+\end_inset
+
+ מתחלפים עכשיו בחישוב רק של 
+\begin_inset Formula $SSB,SSW$
+\end_inset
+
+ וכן בחישוב ה- 
+\begin_inset Formula $MS$
+\end_inset
+
+ים קורה שינוי דומה.
+ לכן בשאלה מה קורה ל- 
+\begin_inset Formula $SS$
+\end_inset
+
+ים ול- 
+\begin_inset Formula $MS$
+\end_inset
+
+ים נניח כי הכוונה היא מה היו הערכים שלהם כאשר אנו מסתכלים על מבחן דו גורמי
+ עם עמודה אחת.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+נניח אם כן כי מתקיים 
+\begin_inset Formula $C=dose,\;R=supp$
+\end_inset
+
+ כאשר יש לנו רק עמודה אחת )כלומר אין מינונים שונים של ויטמין 
+\begin_inset Formula $C$
+\end_inset
+
+ כי החוקר לא מעוניין בהם(
+\end_layout
+
+\begin_layout Standard
+\begin_inset Tabular
+<lyxtabular version="3" rows="14" columns="3">
+<features tabularvalignment="middle">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+מקור השינוי
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+גדל
+\backslash
+קטן
+\backslash
+ללא שינוי
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+הערך מוכפל במספר העמודות אשר ירד ל-
+\numeric on
+1
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+קטן
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $SSR$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+אנו עוברים למצב בו יש עמודה יחידה, ולכן ממוצע העמודה שווה לממוצע הכללי
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+מתאפס
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $SSC$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+להבנתנו, זהו המקביל של ה- 
+\begin_inset Formula $SSW$
+\end_inset
+
+, ולכן לא אמור להשתנות
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ללא שינוי
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $SSE$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+עפ"י נוסחת החישוב - הסכומים בסוגריים שווים ולכן 
+\begin_inset Formula $\left(\overline{x}_{j,k}-\overline{x}_{j.}\right)+\left(-\overline{x}_{.k}+\bar{x}\right)=0$
+\end_inset
+
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+מתאפס
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $SSInt$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+מספר הדרכים אשר נבדקו עבור ה-
+\begin_inset Formula $supp$
+\end_inset
+
+ לא השתנו
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+ללא שינוי
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $df_{R}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+מקטינים את האיבר שמחוסר מ-
+\begin_inset Formula $N$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+גדל
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $df_{e}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+בהתאמה ל-
+\begin_inset Formula $SSC,SSInt$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+מתאפסות
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $df_{C},df_{int}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $SSR$
+\end_inset
+
+ קטן, 
+\begin_inset Formula $df_{R}$
+\end_inset
+
+ לא משתנה
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+קטן
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $MSR$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+בהתאמה ל-
+\begin_inset Formula $SSC$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+מתאפס
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $MSC$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+בהתאמה ל-
+\begin_inset Formula $SSInt$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+מתאפס
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $MSInt$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $SSE$
+\end_inset
+
+ לא משתנה, 
+\begin_inset Formula $df_{e}$
+\end_inset
+
+ גדל
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+קטן
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $MSE$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+בהתאמה ל-
+\begin_inset Formula $SSC,SSInt$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+מתאפסים
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $F_{C},F_{int}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $MSE$
+\end_inset
+
+ לא משתנה, 
+\begin_inset Formula $MSR$
+\end_inset
+
+ קטן
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+קטן
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Formula $F_{R}$
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+סעיף ג'
+\end_layout
+
+\begin_layout Standard
+נערוך את הניתוח של חוקר ב' ב-R.
+ 
+\end_layout
+
+\begin_layout Itemize
+תוצאות הניתוח ומסקנת החוקר.
+\begin_inset Newline newline
+\end_inset
+
+
+\bar under
+הגשת הפלט
+\bar default
+:
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Graphics
+	filename pasted15.png
+	lyxscale 60
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\bar under
+הסבר במילים
+\bar default
+:
+\begin_inset Newline newline
+\end_inset
+
+נשווה בין התוצאות מניתוח זה לתוצאות מסעיף ב':
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+ערך ה-
+\begin_inset Formula $p-vlaue$
+\end_inset
+
+ גדל מאוד כך שממבחן זה לא ניתן לדחות את השערת האפס עבור 
+\begin_inset Formula $\alpha=5\%$
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Itemize
+ערך ה-
+\begin_inset Formula $F$
+\end_inset
+
+ קטן משמעותית מ-
+\begin_inset Formula $15.57$
+\end_inset
+
+ ל-
+\begin_inset Formula $3.668$
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+ערכי ה-
+\begin_inset Formula $SS$
+\end_inset
+
+ וה-
+\begin_inset Formula $MS$
+\end_inset
+
+ לא השתנו כמעט )סביב ה-
+\begin_inset Formula $205$
+\end_inset
+
+(
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+נשים לב כי לפי מבחן זה 
+\series bold
+לא
+\series default
+ ניתן לדחות את השערת האפס, כלומר לא ניתן להגיד כלום על הקשר בין הדרך שבה
+ נצרך ויטמין 
+\begin_inset Formula $C$
+\end_inset
+
+ לבין צמיחת השיניים של שרקנים.
+ ההבדלים בתוצאות נובעים משינוי סוג המבחן.
+ כלומר כאשר עברנו למבחן חד גורמי השתנו הערכים של 
+\begin_inset Formula $SSW$
+\end_inset
+
+ ושל 
+\begin_inset Formula $SSB$
+\end_inset
+
+ כמו שראינו בסעיף הקודם וזה גרר שהערך 
+\begin_inset Formula $F$
+\end_inset
+
+ שהתקבל נהיה קטן יותר ויותר קשה היה לדחות את ההשערה.
+\end_layout
+
+\begin_layout Subsection*
+שאלה
+\family roman
+\series bold
+\shape up
+\size large
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+5
+\numeric off
+:
+\end_layout
+
+\begin_layout Standard
+הקוד של זוהר- 
+\begin_inset Formula $2825265$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+הקוד של אלה- 
+\begin_inset Formula $4331094$
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document
