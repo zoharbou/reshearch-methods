@@ -1,0 +1,1122 @@
+#LyX 2.2 created this file. For more info see http://www.lyx.org/
+\lyxformat 508
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language hebrew
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 2cm
+\topmargin 2cm
+\rightmargin 2cm
+\bottommargin 3cm
+\headheight 2cm
+\headsep 2cm
+\footskip 2cm
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+שיטות מחקר- תרגיל
+\family roman
+\series medium
+\shape up
+\size largest
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+10
+\end_layout
+
+\begin_layout Author
+מגישות- זוהר בוחניק
+\family roman
+\series medium
+\shape up
+\size large
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+311142293
+\family roman
+\series medium
+\shape up
+\size large
+\emph off
+\numeric off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ ואלה דובדבן 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+305564866
+\end_layout
+
+\begin_layout Subsection*
+שאלה
+\family roman
+\series bold
+\shape up
+\size large
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+1
+\end_layout
+
+\begin_layout Subsubsection*
+סעיף א'
+\end_layout
+
+\begin_layout Standard
+בהמשך למחקר הראשון נציע לבדוק האם הבדלים במצב סוציו-אקונומי משפיעים על רמת
+ היושר של אנשים.
+ 
+\begin_inset Newline newline
+\end_inset
+
+זאת בעקבות הממצא של המאמר שאומר כי 
+\begin_inset Formula $simply\,thinking\,about\,money\,can\,make\,people\,behave\,more\,dishonestly$
+\end_inset
+
+.
+ אז אולי לאנשים עם מצב סוציואקונומי שונה יש יותר או פחות מחשבה על כסף כך
+ שזה מוביל אותם להתנהגות יותר או פחות ישרה.
+\begin_inset Newline newline
+\end_inset
+
+המשתנה התיאורטי הבלתי תלוי: מצב סוציואקונומי 
+\begin_inset Newline newline
+\end_inset
+
+המשתנה התיאורטי התלוי: התנהגות מוסרית
+\backslash
+ רמת היושר.
+\end_layout
+
+\begin_layout Subsubsection*
+סעיף ב'
+\end_layout
+
+\begin_layout Standard
+נבצע מערך מתאמי.
+ זאת כיוון שקשה לבצע מניפולציה על מצב סוציו אקונומי- זהו מצב טבעי בעולם
+ שלא ניתן בתנאי מעבדה לשלוט בו )שלא דרך משחק תפקידים(.
+\begin_inset Newline newline
+\end_inset
+
+נשתמש באותו המשחק שבניסוי לקבל מדד לרמאות, זאת כאשר נבחר משתתפים ממצבים
+ סוציו-אקונומי שונים.
+\end_layout
+
+\begin_layout Subsubsection*
+סעיף ג'
+\end_layout
+
+\begin_layout Standard
+נבצע 
+\begin_inset Formula $power\,analysis$
+\end_inset
+
+ עם גודל אפקט 
+\begin_inset Formula $0.1$
+\end_inset
+
+ כמו בניסוי:
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Graphics
+	filename pasted5.png
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+קיבלנו כי אנו זקוקים ל- 
+\begin_inset Formula $79-1-1=77$
+\end_inset
+
+ נבדקים בהינתן הפרטרים שבחרנו )ניתן לראות אותם בפקודה(.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+אנו מריצים 
+\begin_inset Formula $power\,analysis$
+\end_inset
+
+ על מנת לחשב את גודל המדגם א-פריורית, לפני שאנו מתחילים בניסוי כך שהוא יתאים
+ לגודל האפקט שאנו מעוניינים לתפוס, לעוצמת המבחן המינימלית הדרושה ולרמת המובהקות.
+ למדנו כי ניצול הגמישות בבחירת גודל המדגם מנפחת את הסיכוי לטעות מסוג ראשון,
+ וכי אי הכרעה על גודל המדגם לפני התחלתו עם נימוק משכנע למה זה הגודל שבחרנו
+ יכולה להעלות ספק למי שקורה אחרי זה את המאמר לסיבה שבחרנו במדגם הזה שאולי
+ המשכנו לדגום עד שמצאנו אפקט- דבר שאנחנו ממש לא רוצים לעשות.
+ 
+\end_layout
+
+\begin_layout Subsection*
+שאלה
+\family roman
+\series bold
+\shape up
+\size large
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+2
+\end_layout
+
+\begin_layout Subsubsection*
+סעיף ד'
+\end_layout
+
+\begin_layout Standard
+בניסוי השני 
+\begin_inset Formula $The\,Act\,of\,Cheating\,Enhances\,Creativity$
+\end_inset
+
+ במאמר, נתמקד באופן מדידת המשתנה הבלתי תלוי- מידת הרמאות של הנבדק.
+ כדי למדוד את מידת הרמאות בניסוי הם מדדו כמה פעמים מתוך הסבבים של המשחק
+ הנבדק לא לחץ על הרווח, ובכך הניחו כי הוא לא מנע מהתשובה להופיע ורימה במשחק.
+ יתכן כי המשתתף לא לחץ על מקש הרווח מכל מיני סיבות שלא קשורות לכך שרצה לרמות
+ במשחק למשל- אולי לא הספיק ללחוץ על הרווח כי זמן התגובה שלו איטי יותר ואז
+ שהתשובה כבר הופיעה הוא לא ראה צורך ללחוץ.
+ לכן זמן תגובה למשל יכול להיות משתנה מתערב בניסוי.
+ 
+\begin_inset Newline newline
+\end_inset
+
+משתנה מתערב נוסף בתנאי 
+\begin_inset Formula $likely-cheating$
+\end_inset
+
+ יכול להיות שעצם המטלה שנוספה להם ללחוץ על המקש רווח וזה שיש באג בתוכנה
+ השפיע על הריכוז שלהם במשימה ועשה אותם יותר מפוקסים לקראת המשימה הבאה של
+ מבחן היצירתיות.
+ כלומר עצם המשימה השונה נתנה להם יתרון בנקודת הפתיחה במשימה הבאה רק מעצם
+ זה שהייתה "מורכבת יותר".
+\end_layout
+
+\begin_layout Subsubsection*
+סעיף ה'
+\end_layout
+
+\begin_layout Standard
+פתרונות למשתנים המתערבים שמצאנו:
+\begin_inset Newline newline
+\end_inset
+
+לעשות זמן ארוך בין הצגת השאלה להצגת התשובה כך שלא יהיה סביר שיש מישהו שלא
+ יספיק ללחוץ על הרווח לפני שתופיע התשובה.
+\begin_inset Newline newline
+\end_inset
+
+כדי שהמשימות יהיו כמה שיותר דומות וידרשו פעולות דומות אולי פתרון אפשרי יהיה
+ שכדי לראות את התשובה צריך רק לגלגל מעט את המסך למטה.
+ אמנם זה לא בדיוק אותה מניפולציה כי זאת פעולה אקטיבית ולא הימנעות אבל היא
+ מקטינה משמעותית את הפער בין שתי המטלות.
+\end_layout
+
+\begin_layout Subsection*
+שאלה
+\family roman
+\series bold
+\shape up
+\size large
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+3
+\end_layout
+
+\begin_layout Standard
+תשובה- 
+\series bold
+ג'
+\begin_inset Newline newline
+\end_inset
+
+
+\series default
+מתקיים 
+\begin_inset Formula $R^{2}=\frac{SSM}{SST}=\frac{\sum_{i=1}^{n}\left(\hat{y}_{i}-\overline{y}\right)^{2}}{\sum_{i=1}^{n}\left(y_{i}-\overline{y}\right)^{2}}$
+\end_inset
+
+ כאשר 
+\begin_inset Formula $SST$
+\end_inset
+
+ נשאר אותו דבר עבור אותן דגימות והוא לא תלוי במודל.
+ אמנם 
+\begin_inset Formula $SSM$
+\end_inset
+
+ גדל במידה והמשתנים שנוספו תורמים למודל, ובמידה והם לא תורמים 
+\begin_inset Formula $SSM$
+\end_inset
+
+ לא משתנה.
+ לכן התשובה הנכונה היא ג.
+\end_layout
+
+\begin_layout Subsection*
+שאלה
+\family roman
+\series bold
+\shape up
+\size large
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+4
+\end_layout
+
+\begin_layout Subsubsection*
+סעיף א'
+\end_layout
+
+\begin_layout Standard
+הנחות הרגרסיה:
+\end_layout
+
+\begin_layout Itemize
+הטעויות )ההפרש בין 
+\begin_inset Formula $y$
+\end_inset
+
+ לבין הערך המנבא שלו( לא תלויות בערכי ה-
+\begin_inset Formula $x$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Itemize
+הטעויות בכל דגימה הן בלתי תלויות ומתפלגות נורמלית עם תוחלת
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+0
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\numeric off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+ואותה השונות.
+\end_layout
+
+\begin_layout Itemize
+הקשר בין המשתנים לינארי.
+\end_layout
+
+\begin_layout Subsubsection*
+סעיף ב'
+\end_layout
+
+\begin_layout Standard
+תוצאות המבחנים:
+\begin_inset Newline newline
+\end_inset
+
+מודל א'-
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Graphics
+	filename pasted1.png
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+כפי שרואים-
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $b=108.0673$
+\end_inset
+
+ עם 
+\begin_inset Formula $t-value=10.779$
+\end_inset
+
+ כאשר דרגת החופש שווה- 
+\begin_inset Formula $48$
+\end_inset
+
+ ו- 
+\begin_inset Formula $pvalue=2.05_{e-14}$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $F-statistic=116.2$
+\end_inset
+
+ עם 
+\begin_inset Formula $\left(1,48\right)$
+\end_inset
+
+ דרגות חופש ו- 
+\begin_inset Formula $pvalue=2.05_{e-14}$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+כלומר דחינו את השערת האפס וניתן לומר כי ברמת ביטחון של 
+\begin_inset Formula $95\%$
+\end_inset
+
+ יש קשר
+\backslash
+מתאם לינארי מובהק בין חוזק התנודות לבין רמת העצבנות.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $R^{2}=0.7077$
+\end_inset
+
+ 
+\begin_inset Formula $R_{adjusted}^{2}=0.7016$
+\end_inset
+
+.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+מודל ב'-
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Graphics
+	filename pasted2.png
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+כפי שרואים-
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $b_{1}=88.1808$
+\end_inset
+
+ עם 
+\begin_inset Formula $t-value=7.501$
+\end_inset
+
+ כאשר דרגת החופש שווה- 
+\begin_inset Formula $47$
+\end_inset
+
+ ו- 
+\begin_inset Formula $pvalue=1.43_{e-09}$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $b_{2}=-1.7919$
+\end_inset
+
+ עם 
+\begin_inset Formula $t-value=-2.805$
+\end_inset
+
+ כאשר דרגת החופש שווה- 
+\begin_inset Formula $47$
+\end_inset
+
+ ו- 
+\begin_inset Formula $pvalue=0.0073$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $F-statistic=70.34$
+\end_inset
+
+ עם 
+\begin_inset Formula $\left(2,47\right)$
+\end_inset
+
+ דרגות חופש ו- 
+\begin_inset Formula $pvalue=7.387_{e-15}$
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+כלומר דחינו את השערת האפס וניתן לומר כי ברמת ביטחון של 
+\begin_inset Formula $95\%$
+\end_inset
+
+ יש קשר
+\backslash
+מתאם לינארי מובהק בין חוזק התנודות ומידת האימפולסיביות שבסאונד לרמת העצבנות,
+ כאשר כל שאר המשתנים האחרים מוחזקים כקבועים.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Formula $R^{2}=0.7496$
+\end_inset
+
+ 
+\begin_inset Formula $R_{adjusted}^{2}=0.7389$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Subsubsection*
+סעיף ג'
+\end_layout
+
+\begin_layout Standard
+הנוסחה עבור מקדם
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+1
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\numeric off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+ברגרסיה פשוטה היא 
+\begin_inset Formula $b=r\frac{S_{y}}{S_{x}}$
+\end_inset
+
+.
+\begin_inset Newline newline
+\end_inset
+
+ברגרסיה מרובה מחשבים את המקדם 
+\begin_inset Formula $b_{1}$
+\end_inset
+
+ בצורה הבאה: 
+\begin_inset Formula $b_{1}=\frac{r_{yx_{1}}-r_{yx_{2}}r_{x_{1}x_{2}}}{1-r_{x_{1}x_{2}}^{2}}\cdot\frac{S_{y}}{S_{x_{1}}}$
+\end_inset
+
+ .
+ 
+\begin_inset Newline newline
+\end_inset
+
+כאשר אין קשר לינארי בכלל בין שני המשתנים המנבאים אזי 
+\begin_inset Formula $r_{x_{1}x_{2}}=0$
+\end_inset
+
+ ונקבל כי 
+\begin_inset Formula $b_{1}=r_{yx_{1}\cdot}\frac{S_{y}}{S_{x_{1}}}$
+\end_inset
+
+ ממש בדומה לרגרסיה פשוטה.
+ אם יש קשר בין המשתנים 
+\begin_inset Formula $x_{1},x_{2}$
+\end_inset
+
+ אזי בהחסרת 
+\begin_inset Formula $r_{yx_{2}}r_{x_{1}x_{2}}$
+\end_inset
+
+ במונה אנחנו מנכים את ההשפעה של המשתנה 
+\begin_inset Formula $x_{2}$
+\end_inset
+
+ על ידי זה שביטוי זה כולל את הקשר הלינארי בין 
+\begin_inset Formula $x_{2}$
+\end_inset
+
+ ל 
+\begin_inset Formula $x_{1}$
+\end_inset
+
+ ביחס לכמה שהוא משפיע על 
+\begin_inset Formula $y$
+\end_inset
+
+.
+ במכנה יש לנו חלוקה ב- 
+\begin_inset Formula $1-r_{x_{1}x_{2}}^{2}$
+\end_inset
+
+ שזה האחוז השונות המקסימלי שיכול להיות מוסבר על ידי 
+\begin_inset Formula $x_{1}$
+\end_inset
+
+ שלא קשור לאניטראקציה בין 
+\begin_inset Formula $x_{1}$
+\end_inset
+
+ ו- 
+\begin_inset Formula $x_{2}$
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Subsubsection*
+סעיף ד'
+\end_layout
+
+\begin_layout Standard
+הערך של 
+\begin_inset Formula $b$
+\end_inset
+
+ ירד מ- 
+\begin_inset Formula $b=108.0673$
+\end_inset
+
+ ל- 
+\begin_inset Formula $b_{1}=88.1808$
+\end_inset
+
+.
+ ערך ה-
+\begin_inset Formula $t$
+\end_inset
+
+ שחושב במבחן המובהקות של 
+\begin_inset Formula $b_{1}$
+\end_inset
+
+ גם ירד מ- 
+\begin_inset Formula $t-value=10.779$
+\end_inset
+
+ ל- 
+\begin_inset Formula $t-value=7.501$
+\end_inset
+
+, כלומר נהיה קשר יותר לדחות את השערת האפס שהמקדם 
+\begin_inset Formula $b$
+\end_inset
+
+ שווה לאפס )למרות שהיא בכל מקרה נדחתה(.
+ אחוז השונות המוסברת במודל גדל מ- 
+\begin_inset Formula $R^{2}=0.7077$
+\end_inset
+
+ ל- 
+\begin_inset Formula $R^{2}=0.7496$
+\end_inset
+
+ )גם 
+\begin_inset Formula $R_{adjusted}^{2}$
+\end_inset
+
+ עלה(.
+ שינוים אלו חלו כיוון ש:
+\end_layout
+
+\begin_layout Enumerate
+כאשר הוספנו עוד פיצ'ר למודל, 
+\begin_inset Formula $x_{2}$
+\end_inset
+
+, בעצם הקטנו את אלמנט ההשפעה של הפיצ'ר 
+\begin_inset Formula $x_{1}$
+\end_inset
+
+ שהיה בודד ברגרסיה הראשונה, כלומר יכולת ההשפעה שהייתה ל- 
+\begin_inset Formula $x_{1}$
+\end_inset
+
+ על הניבוי מעט ירדה כשנוסף עוד מימד שיכול להסביר את ההתנהגות של 
+\begin_inset Formula $y$
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Enumerate
+לפיצ'ר 
+\begin_inset Formula $x_{2}$
+\end_inset
+
+ יש השפעה על הניבוי והוא מוסיף למודל ומשפר אותו.
+ נראה כי גם הוא נמצא במתאם כלשהו עם 
+\begin_inset Formula $x_{1}$
+\end_inset
+
+ כיוון ש- 
+\begin_inset Formula $b$
+\end_inset
+
+ קטן ברגרסיה המרובה בהשוואה למה שהיה )וזאת אנו למדים בעזרת הסעיף הקודם(.
+ רואים כי היא משפר את המודל בעזרת 
+\begin_inset Formula $R^{2}$
+\end_inset
+
+ שגדל במודל השני.
+\end_layout
+
+\begin_layout Subsubsection*
+סעיף ה'
+\end_layout
+
+\begin_layout Standard
+ניתן להסיק מהמודל של הרגרסיה המרובה כי ברמת ביטחון של 
+\begin_inset Formula $95\%$
+\end_inset
+
+ יש קשר
+\backslash
+מתאם לינארי מובהק בין חוזק התנודות שבסאונד לרמת העצבנות, כאשר המשתנה מידת
+ האימפולסיביות שבסאונד מוחזק כקבוע.
+ עוד ניתן ללמוד כי ברמת ביטחון של 
+\begin_inset Formula $95\%$
+\end_inset
+
+ יש קשר
+\backslash
+מתאם לינארי מובהק בין מידת האימפולסיביות שבסאונד לרמת העצבנות, כאשר המשתנה
+ חוזק התנודות מוחזק כקבוע.
+ כלומר בהינתן חוזק התנודות ומידת האימפולסיביות שבסאונד המודל יכול לנבא מה
+ תהיה מידת האימפולסיביות מעל לרמת הצ'אנס.
+\end_layout
+
+\begin_layout Subsubsection*
+סעיף ו'
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename pasted3.png
+	lyxscale 60
+	scale 60
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection*
+שאלה
+\family roman
+\series bold
+\shape up
+\size large
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\numeric on
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+5
+\end_layout
+
+\begin_layout Subsubsection*
+סעיף א'
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename pasted4.png
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+ניתן לראות כי המבחן לא יצא מובהק וכי 
+\series bold
+לא
+\series default
+ ניתן להסיק שזמן הדגימה מנבא באופן מובהק את רמת העצבנות.
+ מעבר לזה לא ניתן להסיק כלום.
+ אמנם עצם זה שלא נדחתה השערת האפס מחזקת במקצת את תוקף המבחן.
+\end_layout
+
+\begin_layout Subsubsection*
+סעיף ב'
+\end_layout
+
+\begin_layout Standard
+משמעות המקדם 
+\begin_inset Formula $b$
+\end_inset
+
+ ברמה החישובית היא המתאם הלינארי בין המשתנה התלוי לבלתי תלוי כפול יחס השונויות
+ שלהם 
+\begin_inset Formula $b=r\frac{S_{y}}{S_{x}}$
+\end_inset
+
+ כאשר הוא גם השיפוע של הישר 
+\begin_inset Formula $bx+a$
+\end_inset
+
+ של המודל הלינארי שמנבא את הערכים של 
+\begin_inset Formula $y$
+\end_inset
+
+.
+ ברמה התיאורטית, כיוון שאנחנו מדברים על מודל רגרסיה פשוטה, ניתן לראות בעזרתו
+ )עם מבחן 
+\begin_inset Formula $t$
+\end_inset
+
+ מתאים( כמה ההשתנות במשתנה 
+\begin_inset Formula $x$
+\end_inset
+
+ מנאבת את ההשתנות של הפרמטר 
+\begin_inset Formula $y$
+\end_inset
+
+.
+ כשבודקים מבחן למובהקות מקדמים, בודקים האם 
+\begin_inset Formula $b$
+\end_inset
+
+ שונה באופן מובהק מאפס כדי לדעת האם המשתנה הזה תורם לניבוי מעבר לחיזוי של
+ הממוצע.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+משמעות החותך 
+\begin_inset Formula $a$
+\end_inset
+
+ ברמה החישובית היא 
+\begin_inset Formula $a=\overline{y}-b\overline{x}$
+\end_inset
+
+ ההפרש בין הממוצע של המשתנה התלוי לבין הממוצע של המשתנה הבלתי תלוי במכפלה
+ עם הגורם 
+\begin_inset Formula $b$
+\end_inset
+
+ שנזכר מקודם, כך שהוא נקודת החיתוך עם ציר ה-
+\begin_inset Formula $y$
+\end_inset
+
+ בקו הרגרסיה.
+ ברמה התיאורטית הוא ערך ה-
+\begin_inset Formula $y$
+\end_inset
+
+ שננבא כאשר כל ה-
+\begin_inset Formula $x$
+\end_inset
+
+ים שווים לאפס )כאשר אין לנו מידע חדש שיעזור לנו לניבוי הנסיון הכי טוב יהיה
+ לנחש את הממוצע(.
+\end_layout
+
+\end_body
+\end_document
